@@ -1,0 +1,1972 @@
+img_id: Reddit.com_4wfxf2_4wfxf2.jpg_Reddit.com_4wfxf2_d66nm3m_2.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'person'] 
+references: ['take the people out of the back in the photo', 'remove the two people behind the woman in the white dress and the man in the blue suit', 'remove people behind the couple in the centre'] 
+
+img_id: Reddit.com_41kzk7_41kzk7.jpg_Reddit.com_41kzk7_cz36s8w.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['reaplce arc and neon logo with beach tiger', 'change the word "arc" to "beach" and the word "neon" to "tiger', 'change the text "are" to "beach", change the text "neon" to "tiger'] 
+
+img_id: Reddit.com_5pzbel_5pzbel.jpg_Reddit.com_5pzbel_dcw1fpy.jpg 
+candidates: ['add', 'a', 'new', 'background', 'around', 'the', 'man'] 
+references: ['crop the baby picture of the baby only put the cropped baby picture into another picture put it into a picture of a man standing on one arm in front of a wall with grafitti on it', "cut out the baby and insert it into a different background, put a cap on the baby's head and add an image to the baby's t-shirt", "add baby a cap, add a sign on baby's shirt, change the background"] 
+
+img_id: Reddit.com_5eooy0_5eooy0.jpg_Reddit.com_5eooy0_dae04k7.png 
+candidates: ['add', 'a', 'mario', 'hat', 'and', 'the', 'word', '<UNK>'] 
+references: ['add a tigger', 'insert the tiger behind the man', 'remove the tiger behind the man, increase the image contrast'] 
+
+img_id: Reddit.com_4l6ikb_4l6ikb.png_Reddit.com_4l6ikb_d3kqv3w_1_1.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['change the flower to a bike in a circle', 'replace the yellow flower logo with the bike in the blue circle', 'change the central sign to bike sign'] 
+
+img_id: Reddit.com_42k6pi_42k6pi.jpg_Reddit.com_42k6pi_czb4b3t.jpg 
+candidates: ['change', 'the', 'background', 'of', 'the', 'picture', 'to', 'a', 'black', 'and', 'white'] 
+references: ['remove the background add the man to the background of a picture of the president', 'cut out the boy and insert him into a new image behind the donald trump', 'crop the image, change the image background'] 
+
+img_id: Reddit.com_4ks2sg_4ks2sg.jpg_Reddit.com_4ks2sg_d3higwv.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['change the color of the wheels to black', 'change the colors of the rims from grey to black', 'brighten the car wheels'] 
+
+img_id: Reddit.com_5eo0lg_5eo0lg.jpg_Reddit.com_5eo0lg_daduxe8.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'add', 'a', 'black', 'background'] 
+references: ['remove the background with all the signatures', 'remove the background', 'add a white background around the ellipse'] 
+
+img_id: Reddit.com_4qlklb_4qlklb.jpg_Reddit.com_4qlklb_d4u21yo.jpg 
+candidates: ['add', 'in', 'the', 'background'] 
+references: ['fire in the car and the ground', 'significantly increase the brightness of the right side of the image and add the explosion behind the children', 'add the fire behind the boy and around the car'] 
+
+img_id: Reddit.com_5cmxzy_5cmxzy.jpg_Reddit.com_5cmxzy_d9y1dt3.png 
+candidates: ['brighten', 'the', 'image'] 
+references: ['remove the makeup', "clean up the old lady's face", "remove the panitings from the woman's face"] 
+
+img_id: Reddit.com_4v4w0f_4v4w0f.jpg_Reddit.com_4v4w0f_d5vj8o3.jpg 
+candidates: ['crop', 'the', 'image', 'out', 'of', 'the', 'picture'] 
+references: ['remove girl in background', 'remove the woman from the image', 'increase the image contrast, remove the woman behind the boys'] 
+
+img_id: Reddit.com_5f9q6h_5f9q6h.jpg_Reddit.com_5f9q6h_daio29z.jpg 
+candidates: ['change', 'the', 'background', 'of', 'the', 'picture', 'to', 'the', 'right'] 
+references: ['add a crown to the dog zoom in on the image add transparent clouds to the dogs head add sparkles to the dog decrease contrast', 'crop the image, increase the brightness, add the crown to the top of the dogs head and add the colorful smoke around the dog', 'add a crown on the dog head, change the background around the dog, crop the image'] 
+
+img_id: Reddit.com_48aa71_48aa71.jpg_Reddit.com_48aa71_d0i2a7r.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'image'] 
+references: ['decrease levels of red decrease levels of yellow', 'change the color of the sky from orange to blue', 'color the sky blue'] 
+
+img_id: Reddit.com_5nlq8i_5nlq8i.jpg_Reddit.com_5nlq8i_dccp49b.jpg 
+candidates: ['crop', 'the', 'image', 'background'] 
+references: ['add an old persons face to mccully culkin add an old person face to michael jackson', "change michael jackson's and macaulay culkin's head", "change boy's face and michael jackson's face"] 
+
+img_id: Reddit.com_5qrwhg_5qrwhg.jpg_Reddit.com_5qrwhg_dd1n8x0.png 
+candidates: ['rotate', 'the', 'image', '90', 'degrees', 'make', 'the', 'background', 'black', 'and', 'white'] 
+references: ['change picture to black and white scale', 'remove the gray bar with the text and make the image black & white', 'add black and white filter'] 
+
+img_id: Reddit.com_4qm1i1_4qm1i1.jpg_Reddit.com_4qm1i1_d4uv174.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['make the sunrays less of a glare', 'increase the brightness of the image', 'increase the image brightness'] 
+
+img_id: Reddit.com_5e696f_5e696f.jpg_Reddit.com_5e696f_daa13th.jpg 
+candidates: ['make', 'the', 'background', 'of', 'the', 'image'] 
+references: ['make the girl more tan make her hair more vibrant make the tattoo black', "darken the girl's skin and tattoo", 'color her skin darker, color her tattoo more black'] 
+
+img_id: Reddit.com_4frbvb_4frbvb.jpg_Reddit.com_4frbvb_d2bbdny.png 
+candidates: ['edit', 'the', 'background', 'of', 'the', 'picture'] 
+references: ['change the eye color', 'change the creatures eye', 'change the eye'] 
+
+img_id: Reddit.com_5aa58o_5aa58o.jpg_Reddit.com_5aa58o_d9f5542.png 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'image'] 
+references: ['darken the color and change the background and change the layout of the frame size', "crop the man's and the woman's head and insert them into a titanic scene", 'crop the man and the woman head, add a new background around the heads'] 
+
+img_id: Reddit.com_563mfa_563mfa.jpg_Reddit.com_563mfa_d8gjd0w.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['change the outfit and change the background', "crop the man's head and insert it into a batman background", 'distort the image, crop the head, add a new background around the head'] 
+
+img_id: Reddit.com_4sgxz7_4sgxz7.jpg_Reddit.com_4sgxz7_d59b4ok.jpg 
+candidates: ['brighten', 'the', 'background'] 
+references: ['brighten the entire photo', 'rotate the image slightly and increase the brightness', 'distort the image, increase the image brightness'] 
+
+img_id: Reddit.com_527zqk_527zqk.jpg_Reddit.com_527zqk_d7i2pj0.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['remove the yellow fabric in his left hand', "remove the yellow clothes from the man's hand", "remove the yellow towel in man's hand, remove the hanging side of man's shirt"] 
+
+img_id: Reddit.com_5mjh3k_5mjh3k.jpg_Reddit.com_5mjh3k_dc42i2b.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['pixelate image', 'make the entire image pixelated', 'add the effect'] 
+
+img_id: Reddit.com_5qc6xh_5qc6xh.jpg_Reddit.com_5qc6xh_dcy3qw5.jpg 
+candidates: ['add', 'a', 'new', 'background', 'behind', 'the', 'man'] 
+references: ['add middle finger emoji to nose', 'insert the hand with the middle finger onto the top of the boys nose', "add a middle finger on boy's nose, increase the image contrast"] 
+
+img_id: Reddit.com_5z6zpy_5z6zpy.jpg_Reddit.com_5z6zpy_devs9gg.jpg 
+candidates: ['make', 'the', 'background', 'solid', 'white'] 
+references: ['put the head on top of the body rotate the image 90 degrees', 'rotate the image and connect it', "rotate the image, reposition the second part of the image with figure's head on the top"] 
+
+img_id: Reddit.com_4kfwll_4kfwll.jpg_Reddit.com_4kfwll_d3fac1k.jpg 
+candidates: ['make', 'the', 'background', 'solid', 'white'] 
+references: ['change the sky to bright blue with clouds', 'make the sky blue and cloudy', 'change the sky, make the colors cooler'] 
+
+img_id: Reddit.com_5qc6xh_5qc6xh.jpg_Reddit.com_5qc6xh_dcy3qw5.jpg 
+candidates: ['add', 'a', 'new', 'background', 'behind', 'the', 'man'] 
+references: ['put a hand with a middle finger here on his nose', 'insert the hand with the middle finger onto the top of the boys nose', "add a middle finger on boy's nose, increase the image contrast"] 
+
+img_id: Reddit.com_5bbaza_5bbaza.jpg_Reddit.com_5bbaza_d9n4gbl_1_3.png 
+candidates: ['add', 'a', '<UNK>', 'hat'] 
+references: ['add text pool party', 'add text "pool party', 'add the text "pool party'] 
+
+img_id: Reddit.com_4rsier_4rsier.jpg_Reddit.com_4rsier_d544yvs.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['remove background and finger surrounding picture', 'crop the image', 'crop the image, remove the finger'] 
+
+img_id: Reddit.com_52kvaa_52kvaa.jpg_Reddit.com_52kvaa_d7l1tpw.jpg 
+candidates: ['add', 'a', 'background', 'of', 'a', 'picture', 'of', 'the', '<UNK>', '<UNK>'] 
+references: ['add fire', 'insert a yellow flame behind the man in the suit', "add the fire behind the man, add the light in man's shirt right side"] 
+
+img_id: Reddit.com_46zbvx_46zbvx.jpg_Reddit.com_46zbvx_d0915ph.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['turn white of motorcycle into baby blue ', 'change the white color on the motorcycle to blue', "color the motorcycle's white area to blue"] 
+
+img_id: Reddit.com_42fxk2_42fxk2.jpg_Reddit.com_42fxk2_czagsai.jpg 
+candidates: ['remove', 'the', 'people', 'in', 'the', 'background'] 
+references: ['remove the boy in the background', 'remove the boy behind the old man', 'remove the boy behind the older man'] 
+
+img_id: Reddit.com_3y17yk_3y17yk.jpg_Reddit.com_3y17yk_cy9rsok.jpg 
+candidates: ['add', 'a', '<UNK>', 'hat', 'on', 'the', 'left'] 
+references: ['change what the cat is lying on to the other photo', 'replace the background under the cat', 'change the background under the cat'] 
+
+img_id: Reddit.com_4u4v0f_4u4v0f.jpg_Reddit.com_4u4v0f_d5mw5a1.jpg 
+candidates: ['add', 'in', 'background', 'add', 'a', 'background', 'of', 'a', '<UNK>'] 
+references: ['change the background to blue', 'change the color of the wall from white to blue', 'color the white area around the girl to blue'] 
+
+img_id: Reddit.com_5l5191_5l5191.jpg_Reddit.com_5l5191_dbtpepd_2_0.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['brighten photo', 'remove the white stains and increase contrast', 'increase the image contrast, remove the white spots '] 
+
+img_id: Reddit.com_4gxikn_4gxikn.jpg_Reddit.com_4gxikn_d2lmk2q.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['lighten backgound', 'increase the brightness of the entire image', 'increase the image brightness'] 
+
+img_id: Reddit.com_5i7tc1_5i7tc1.jpg_Reddit.com_5i7tc1_db62w6j.jpg 
+candidates: ['remove', 'the', 'red', 'tint'] 
+references: ['select all of the blue color and turn it into a yellow hue', 'change blue color to yellow', 'color the blue lights to blue'] 
+
+img_id: Reddit.com_56shoa_56shoa.jpg_Reddit.com_56shoa_d8lytc5.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['remove the blemishes from the mans face', "remove acne from the boy's face", "remove boy's imperfections from his face"] 
+
+img_id: Reddit.com_5ewrc9_5ewrc9.jpg_Reddit.com_5ewrc9_dafqzwt.png 
+candidates: ['remove', 'the', 'background'] 
+references: ['remove all background except for the cats face', "cut out cat's head and place it on the white background", 'add a white background around the cat face'] 
+
+img_id: Reddit.com_5l5191_5l5191.jpg_Reddit.com_5l5191_dbtpepd_2_0.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['brighten the whole photo so it doesnt look so drab', 'remove the white stains and increase contrast', 'increase the image contrast, remove the white spots '] 
+
+img_id: Reddit.com_5n7xgp_5n7xgp.jpg_Reddit.com_5n7xgp_dc9dfez.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'photo'] 
+references: ['remove the hand and the sunglasses make the cats eyes big', 'remove the glasses and the hand', 'remove the sunglasses, remove the hand'] 
+
+img_id: Reddit.com_52na2w_52na2w.jpg_Reddit.com_52na2w_d7lsy41.png 
+candidates: ['remove', 'the', 'black', 'background'] 
+references: ['change in to the sketch image ', 'resize the image, make it black and white and replace the word "super" with "mello', 'remove colors, change the text to "mello friends'] 
+
+img_id: Reddit.com_4x7xs5_4x7xs5.jpg_Reddit.com_4x7xs5_d6d7knu.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'entire', 'picture'] 
+references: ['add an elephant underneath the car', 'increase the brightness, insert an elephant under the car', 'add an elephand under the car'] 
+
+img_id: Reddit.com_4llz8m_4llz8m.jpg_Reddit.com_4llz8m_d3od8st.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['remove text and pictures', 'remove all the text from the image and portrait of a man', 'remove all the text and the picture'] 
+
+img_id: Reddit.com_5tvepw_5tvepw.jpg_Reddit.com_5tvepw_ddplyqb.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'add', 'a', 'black', 'background'] 
+references: ['add alabama crimson tide emblem on front of tee shirt', "add the red logo onto the guy's t-shirt", "add the sign on man's t-shirt"] 
+
+img_id: Reddit.com_51dive_51dive.jpg_Reddit.com_51dive_d7b6pz3.jpg 
+candidates: ['remove', 'the', 'man', 'from', 'the', 'picture'] 
+references: ['photoshop picture of old man onto female subjects face', "change the girl's face", "change the girl's face"] 
+
+img_id: Reddit.com_4fqa4a_4fqa4a.jpg_Reddit.com_4fqa4a_d2b2kym.jpg 
+candidates: ['make', 'the', 'background', 'black', 'and', 'white'] 
+references: ['remove the writing on the top', 'remove the text from the entire image', 'remove all the text, remove the frame'] 
+
+img_id: Reddit.com_5qbj55_5qbj55.jpg_Reddit.com_5qbj55_dcxvjge.jpg 
+candidates: ['add', 'a', 'new', 'background', 'behind', 'the', 'man'] 
+references: ['add butterfly  fern tattoo image ', 'insert the butterfly tattoo on the hand', 'add the tattoo on the hand'] 
+
+img_id: Reddit.com_5vkdeg_5vkdeg.jpg_Reddit.com_5vkdeg_de32zw6.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['remove bike from photograph', 'remove the bicycle and its shadow', 'remove the bike'] 
+
+img_id: Reddit.com_3ydezb_3ydezb.jpg_Reddit.com_3ydezb_cycwss5.png 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['darken crop add facepaint insert the word traitor in the black area at the bottom', 'enlarge the image, darken it, insert two black bars on the top and the bottom of the image and insert the word "traitor" on the bottom of the image', 'crop the image, cincrease the image contrast, add the text "traintor" at the bottom of the image'] 
+
+img_id: Reddit.com_5qzlf1_5qzlf1.jpg_Reddit.com_5qzlf1_dd3c5mu.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['move the guy closer to the girl', 'move the man a little closer to the woman', 'position the man closer to the woman'] 
+
+img_id: Reddit.com_3x5naa_3x5naa.jpg_Reddit.com_3x5naa_cy1x6on.png 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'entire', 'picture'] 
+references: ['color in the tatoo', 'colorize the tattoo on the arm', 'add the colors to the tattoo'] 
+
+img_id: Reddit.com_4x86au_4x86au.jpg_Reddit.com_4x86au_d6d8sgy.jpg 
+candidates: ['put', 'a', 'new', 'background'] 
+references: ['remove the g from the image', 'remove the letter "g', 'remove the "g" from the sign'] 
+
+img_id: Reddit.com_5n6bp5_5n6bp5.jpg_Reddit.com_5n6bp5_dc90u5e.jpg 
+candidates: ['remove', 'the', 'people', 'in', 'the', 'background'] 
+references: ['remove the people', 'remove the people from the image', 'remove people from the image'] 
+
+img_id: Reddit.com_4bkry4_4bkry4.jpg_Reddit.com_4bkry4_d1a3zz8.jpg 
+candidates: ['turn', 'the', 'picture', 'of', 'the', 'picture'] 
+references: ['remove the light polls from the background ', 'remove the street lights behind the dog', 'remove the street lighting'] 
+
+img_id: Reddit.com_4lsohi_4lsohi.jpg_Reddit.com_4lsohi_d3pwhi9.jpg 
+candidates: ['replace', 'the', 'background', 'with', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['change the smile to a frown add tears', "make the man's face sad and insert tears under the eyes", "make man's face sad, add tears on man's face"] 
+
+img_id: Reddit.com_5xy8c3_5xy8c3.jpg_Reddit.com_5xy8c3_delsqnn_2.jpg 
+candidates: ['crop', 'the', 'image', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['remove the glare that is outlined in yellow', "remove the light glow above the man's head", "remove the white light around man's head"] 
+
+img_id: Reddit.com_4z9stv_4z9stv.jpg_Reddit.com_4z9stv_d6u28dh.jpg 
+candidates: ['remove', 'the', 'man', 'from', 'the', 'photo'] 
+references: ['remove all the people in the image except the two people sitting on the bench remove the grass and sidewalks make the pool of water go all the way to the doors of the building', 'remove the people in front of taj mahal, extend taj mahal all the way to the water and remove the side towers', 'change the building, distort the image, increase the image contrast'] 
+
+img_id: Reddit.com_5jw3g7_5jw3g7.jpg_Reddit.com_5jw3g7_dbjfub8_1_1.jpg 
+candidates: ['put', 'a', 'cartoon', 'effect', 'on', 'the', 'picture'] 
+references: ['select the entire image and increase the brightness level significantly then also add contrast so that there is a light and dark saturation ', 'increase the brightness of the entire image', 'increase the image brightness'] 
+
+img_id: Reddit.com_51qbyt_51qbyt.jpg_Reddit.com_51qbyt_d7dzkvi.jpg 
+candidates: ['remove', 'the', 'dog'] 
+references: ['remove leash ', 'remove the leash', 'remove the leash'] 
+
+img_id: Reddit.com_5kan8x_5kan8x.png_Reddit.com_5kan8x_dbmlsj3.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'photo'] 
+references: ['change color of the desk', 'replace the table', 'change the desk design'] 
+
+img_id: Reddit.com_4wtfda_4wtfda.jpg_Reddit.com_4wtfda_d69subc.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['color in the roof with bricks where you see wood', 'fill the upper part of the building', 'remove the roof'] 
+
+img_id: Reddit.com_5whhdf_5whhdf.jpg_Reddit.com_5whhdf_dea9ejr_1_1.jpg 
+candidates: ['crop', 'the', 'photo', 'so', 'that', 'the', 'background', 'is', 'white'] 
+references: ['zoom in and make colors more vibrant', 'crop the image and increase contrast', 'crop the image, increase the image contrast'] 
+
+img_id: Reddit.com_5i7tc1_5i7tc1.jpg_Reddit.com_5i7tc1_db63l69_1_2.jpg 
+candidates: ['remove', 'the', 'people', 'in', 'the', 'background'] 
+references: ['change the image from blue to red nothing', 'replace blue with red color', 'color the blue lights to red'] 
+
+img_id: Reddit.com_5xkg2w_5xkg2w.jpg_Reddit.com_5xkg2w_deirteg.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'make', 'it', 'white'] 
+references: ['grayscale the cow and ungrayscale the girls dress', 'colorize the entire image', "color the girl's shirt to yellow, decrease the image contrast"] 
+
+img_id: Reddit.com_46dcnu_46dcnu.jpg_Reddit.com_46dcnu_d04faau.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['remove the hand on the left', 'remove the dark hand nearest to the camera', 'remove the hand in the left side of the image'] 
+
+img_id: Reddit.com_4gry2i_4gry2i.jpg_Reddit.com_4gry2i_d2k8zsd.jpg 
+candidates: ['change', 'the', 'background', 'of', 'the', 'picture', 'to', 'a', 'black', 'and', 'white'] 
+references: ['change the number 881 to 960', 'change number from "881" to "960', 'change the number at the bottom to 960'] 
+
+img_id: Reddit.com_46xxb2_46xxb2.jpg_Reddit.com_46xxb2_d08qdjb.jpg 
+candidates: ['remove', 'the', 'background', 'of', 'the', 'image'] 
+references: ['remove the blemish from the top of the photo', 'remove the yellow glare from the top of the face', 'remove the yellow light at the top of the picture'] 
+
+img_id: Reddit.com_3xuxve_3xuxve.jpg_Reddit.com_3xuxve_cy81g4c_1_2.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'person'] 
+references: ['remove some of the color from the photo to give it an older look', 'insert more green color into the image', 'add the effect'] 
+
+img_id: Reddit.com_5jndxt_5jndxt.jpg_Reddit.com_5jndxt_dbhk05g.png 
+candidates: ['make', 'the', 'whole', 'image', 'brighter'] 
+references: ['the man in the background here needs to be removed ', 'remove the man in the black clothes and insert the image on the wall where he was', 'remove the man behind the woman'] 
+
+img_id: Reddit.com_4u4v0f_4u4v0f.jpg_Reddit.com_4u4v0f_d5mw5a1.jpg 
+candidates: ['add', 'in', 'background', 'add', 'a', 'background', 'of', 'a', '<UNK>'] 
+references: ['change background ', 'change the color of the wall from white to blue', 'color the white area around the girl to blue'] 
+
+img_id: Reddit.com_5xr1ap_5xr1ap.jpg_Reddit.com_5xr1ap_dekhbzg.jpg 
+candidates: ['add', 'the', 'words', '<UNK>', '<UNK>'] 
+references: ['na apply a color filter with blue and green', 'rotate the image slightly and increase the contrast', 'distort the image, increase the image contrast'] 
+
+img_id: Reddit.com_4uo7ir_4uo7ir.jpg_Reddit.com_4uo7ir_d5rckxb.jpg 
+candidates: ['rotate', 'the', 'image', 'clockwise'] 
+references: ['add green and yellow flames coming out of the fireplace cut off the very right part of the photo', 'insert the green flames into the stove', 'add a green flame on the fireplace'] 
+
+img_id: Reddit.com_58obri_58obri.png_Reddit.com_58obri_d923oz3_1_1.png 
+candidates: ['remove', 'background', 'from', 'image'] 
+references: ['remove tree background', 'replace the background with the white one', 'add a white background to the whole image'] 
+
+img_id: Reddit.com_5wli8x_5wli8x.jpg_Reddit.com_5wli8x_deb18rm.png 
+candidates: ['remove', 'the', 'background'] 
+references: ['remove the background and turn it gray', 'replace the background with the gray one', 'add a white area to the whole image'] 
+
+img_id: Reddit.com_56s87o_56s87o.jpg_Reddit.com_56s87o_d8lwp1p.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'image'] 
+references: ['photoshop meteors and add a red hue', 'increase the intensity of red color on the entire image and insert the comets on the sky', 'add comets on the sky, add the effect'] 
+
+img_id: Reddit.com_5i9al2_5i9al2.jpg_Reddit.com_5i9al2_db6f3hm.png 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'image'] 
+references: ['add green superhero filter', 'make the whole image green and insert the white lighting beams', 'add a green effect to the whole image'] 
+
+img_id: Reddit.com_4bvzc3_4bvzc3.jpg_Reddit.com_4bvzc3_d1d36g7.jpg 
+candidates: ['remove', 'the', 'black', 'background'] 
+references: ['make shadow lighter', 'change the color of glass and background', 'make the area around the glass whiter, remove the imperfections'] 
+
+img_id: Reddit.com_4z0j4g_4z0j4g.jpg_Reddit.com_4z0j4g_d6rv705.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'entire', 'picture'] 
+references: ['change face to kanye west', "replace the man's head", 'change the face'] 
+
+img_id: Reddit.com_56vyo1_56vyo1.jpg_Reddit.com_56vyo1_d8mv86h_1_3.png 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['take away background filter image', 'replace the background', 'add a white backgrount to the whole image'] 
+
+img_id: Reddit.com_5kocen_5kocen.jpg_Reddit.com_5kocen_dbpvq78.png 
+candidates: ['add', 'a', 'mario', 'hat', 'add', 'a', 'mario', 'hat', 'and', 'the', 'word', '<UNK>'] 
+references: ['remove the glare of the sun', 'remove the sea glare', 'remove the white reflection '] 
+
+img_id: Reddit.com_5bq8wc_5bq8wc.jpg_Reddit.com_5bq8wc_d9qj2bw.png 
+candidates: ['add', 'a', 'black', 'background'] 
+references: ['rotate image counter clockwise', 'rotate the picture and bold the black lines', 'rotate the image, make the lines ticker'] 
+
+img_id: Reddit.com_5gxu4w_5gxu4w.jpg_Reddit.com_5gxu4w_davxhyf_1_1.jpg 
+candidates: ['remove', 'the', 'black', 'background'] 
+references: ['darken the entire image', 'darken the entire image', 'decrease the image brightness'] 
+
+img_id: Reddit.com_5vl08o_5vl08o.jpg_Reddit.com_5vl08o_de3eg4v.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'replace', 'it', 'with', 'a', 'colorful', 'building'] 
+references: ['remove all the text', 'remove the text from the entire image', 'remove all the text and the signs from the picture'] 
+
+img_id: Reddit.com_5hj20h_5hj20h.jpg_Reddit.com_5hj20h_db0lqsn.jpg 
+candidates: ['lighten', 'up', 'the', 'whole', 'image'] 
+references: ['make the image less focused', 'darken the entire image', 'decrease the image brightness'] 
+
+img_id: Reddit.com_5cemoo_5cemoo.jpg_Reddit.com_5cemoo_d9vv9go.jpg 
+candidates: ['make', 'the', 'whole', 'image', 'brighter'] 
+references: ['add santa and a sleigh also add reindeer', 'insert the santa claus above the bridge', 'add santa claus with reindeers on the sky '] 
+
+img_id: Reddit.com_4xf8z3_4xf8z3.jpg_Reddit.com_4xf8z3_d6ez4md.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['change color of image and change background yellow', 'make the background yellow and replace the black color with space and stars', 'color the white area yellow, change the sign color'] 
+
+img_id: Reddit.com_4lvp4j_4lvp4j.jpg_Reddit.com_4lvp4j_d3qp86u.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['make the background solid grey', 'replace the background', 'change the background'] 
+
+img_id: Reddit.com_5mrrdf_5mrrdf.jpg_Reddit.com_5mrrdf_dc5wy54.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'person'] 
+references: ['remove thumb', "remove the man's finger", 'remove the finger in the left side of the image'] 
+
+img_id: Reddit.com_51s266_51s266.jpg_Reddit.com_51s266_d7ecpw6.jpg 
+candidates: ['darken', 'up', 'the', 'whole', 'image'] 
+references: ['add some more sky area here and some more water area here to make the image thicker', 'extend the image', 'expand the image'] 
+
+img_id: Reddit.com_5i6xmj_5i6xmj.png_Reddit.com_5i6xmj_db5v1gw.jpg 
+candidates: ['make', 'the', 'background', 'of', 'the', 'image'] 
+references: ['show him on a frozen lake with snowy mountains in the background', 'place the man and the hoverboard into the new ice lake background', 'change the image background'] 
+
+img_id: Reddit.com_5h7uf9_5h7uf9.jpg_Reddit.com_5h7uf9_day25ea.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['na remove people from the background', 'remove the woman in the background', 'remove the woman behind the man'] 
+
+img_id: Reddit.com_3yi6np_3yi6np.png_Reddit.com_3yi6np_cydpq9q.jpg 
+candidates: ['change', 'background', 'to', 'black', 'and', 'white'] 
+references: ['remove logo', 'remove the "space" text and blue circle', 'remove the sign "space'] 
+
+img_id: Reddit.com_4k92s3_4k92s3.jpg_Reddit.com_4k92s3_d3d4tex.png 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['change orange color to a mint green color', 'change yellow to green', 'change the orange area to green'] 
+
+img_id: Reddit.com_5i7tc1_5i7tc1.jpg_Reddit.com_5i7tc1_db63l69_1_2.jpg 
+candidates: ['remove', 'the', 'people', 'in', 'the', 'background'] 
+references: ['change entire color to red ', 'change the blue color into the red', 'change the light to red'] 
+
+img_id: Reddit.com_5bjmtl_5bjmtl.jpg_Reddit.com_5bjmtl_d9p0fbh.jpg 
+candidates: ['take', 'away', 'creases'] 
+references: ['remove the bottle of soap', 'remove the shampoo', 'remove the bottle'] 
+
+img_id: Reddit.com_41n3qc_41n3qc.jpg_Reddit.com_41n3qc_cz3p7ne.jpg 
+candidates: ['take', 'away', 'the', 'background'] 
+references: ['darken the photo', 'increase the contrast of the entire image', "add the efect, whiten man's teeth"] 
+
+img_id: Reddit.com_5y25o4_5y25o4.jpg_Reddit.com_5y25o4_demkz4w_1_1.png 
+candidates: ['remove', 'the', 'background', 'of', 'the', 'picture'] 
+references: ['cut out the couple here that i am outlining so that there is no background', 'remove the background', 'crop the image, add a white background'] 
+
+img_id: Reddit.com_4pg99b_4pg99b.jpg_Reddit.com_4pg99b_d4ko88x_2.png 
+candidates: ['add', 'a', '<UNK>', 'hat'] 
+references: ['just need to zoom in and add a blur effect', 'crop the image and blur the area around the children', 'crop the image, blur the image background'] 
+
+img_id: Reddit.com_4wm0av_4wm0av.jpg_Reddit.com_4wm0av_d682t33.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['adjust the colors', 'increase the contrast of the entire image', 'increase the image contrast'] 
+
+img_id: Reddit.com_5vc8jf_5vc8jf.jpg_Reddit.com_5vc8jf_de0vpgm.jpg 
+candidates: ['add', 'a', '<UNK>', 'hat', 'to', 'the', 'top', 'of', 'the', 'picture'] 
+references: ['please remove the arm of the chair in the image', 'change the color of the backrest chair, and remove the chair handle', 'remove the black object behind the cat'] 
+
+img_id: Reddit.com_4xlv2g_4xlv2g.jpg_Reddit.com_4xlv2g_d6i1mmg.jpg 
+candidates: ['rotate', 'the', 'image', '90', 'degrees', 'remove', 'the', 'background', 'and', 'replace', 'it', 'with', 'a', 'colorful', 'building'] 
+references: ['color chain and pendant silver color in chain and pendent copper', 'make the right necklace silver and the right necklace bronze', 'change the color of first necklace to silver, change the color of the second necklace to bronze'] 
+
+img_id: Reddit.com_4312zn_4312zn.jpg_Reddit.com_4312zn_czerepe.jpg 
+candidates: ['rotate', 'the', 'image', 'clockwise'] 
+references: ['add in afro', "change the woman's hair", 'change the hairstyle'] 
+
+img_id: Reddit.com_3xw4ag_3xw4ag.jpg_Reddit.com_3xw4ag_cy8jsh0.jpg 
+candidates: ['remove', 'the', 'text', 'from', 'the', 'photo'] 
+references: ['take away heading and barcode', 'remove all the text, blue bars, steam logo and the barcode', 'remove all the text and the signs from the picture'] 
+
+img_id: Reddit.com_5l5ez6_5l5ez6.jpg_Reddit.com_5l5ez6_dbt27tl_2_0.jpg 
+candidates: ['make', 'the', 'whole', 'image', 'brighter'] 
+references: ['please remove all the people in the image except the lady who is sitting please make the image small', 'replace the image background', 'change the image background'] 
+
+img_id: Reddit.com_5k5t9v_5k5t9v.jpg_Reddit.com_5k5t9v_dbm9z9i.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'add', 'a', 'new', 'background'] 
+references: ['remove the background put in a grey background', 'replace the background', 'change the image background'] 
+
+img_id: Reddit.com_5eaww5_5eaww5.jpg_Reddit.com_5eaww5_daaypv3.jpg 
+candidates: ['add', 'in', 'the', 'background'] 
+references: ['please remove all the letters present in the image', 'remove the text', 'remove the text from the image'] 
+
+img_id: Reddit.com_58vve3_58vve3.jpg_Reddit.com_58vve3_d93tirt.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['change to a different language', 'change the text language', 'change the text'] 
+
+img_id: Reddit.com_5umeu7_5umeu7.jpg_Reddit.com_5umeu7_ddv577f.png 
+candidates: ['zoom', 'out', 'of', 'the', 'picture'] 
+references: ['cover the embryo on the picture', 'insert the sandwich over the baby', 'add a sandwich on the baby'] 
+
+img_id: Reddit.com_5eo0lg_5eo0lg.jpg_Reddit.com_5eo0lg_daduxe8.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'add', 'a', 'black', 'background'] 
+references: ['take out all the writing', 'remove the background', 'add a white background around the ellipse'] 
+
+img_id: Reddit.com_4pqm9p_4pqm9p.jpg_Reddit.com_4pqm9p_d4n4yln.jpg 
+candidates: ['add', 'in', 'the', 'background'] 
+references: ['add a lamp shining in from the top left corner add some purple plant leaes on the right', 'insert the lamp, lighting beam and the octopus tentacles', 'add a lamp and the light in the left side, add the tails in the right side'] 
+
+img_id: Reddit.com_5nlts1_5nlts1.jpg_Reddit.com_5nlts1_dccistj.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'add', 'a', 'new', 'background'] 
+references: ['crop the photo so it mostly only shows the mans head', 'crop the image and increase the contrast', 'crop the image, increase the image contrast'] 
+
+img_id: Reddit.com_46amlo_46amlo.jpg_Reddit.com_46amlo_d03lt30.jpg 
+candidates: ['<UNK>', 'the', 'image', 'of', 'the', 'picture'] 
+references: ['make image brighter', 'increase the brightness of the entire image', 'increase the image brightness'] 
+
+img_id: Reddit.com_4bvzc3_4bvzc3.jpg_Reddit.com_4bvzc3_d1cxgxe_4.jpg 
+candidates: ['remove', 'the', 'black', 'background'] 
+references: ['make the picture lighter as if the picture was lighted with a white light', 'significantly increase the contrast', 'remove the effect'] 
+
+img_id: Reddit.com_5pzprz_5pzprz.jpg_Reddit.com_5pzprz_dcv5vhe.jpg 
+candidates: ['make', 'the', 'whole', 'image', 'brighter'] 
+references: ['put the image in color', 'colorize the entire image', 'remove the effect'] 
+
+img_id: Reddit.com_5qicl8_5qicl8.jpg_Reddit.com_5qicl8_dczqzs2.png 
+candidates: ['add', 'a', '<UNK>', 'hat'] 
+references: ['make everything very clear', 'enlarge the image and sharpen it', 'make the image bigger'] 
+
+img_id: Reddit.com_5beb2o_5beb2o.jpg_Reddit.com_5beb2o_d9nvl84.jpg 
+candidates: ['add', 'more', 'contrast', 'to', 'the', 'entire', 'image'] 
+references: ['make tthe image darker', 'add more yellownes to the entire image', 'increase the image contrast'] 
+
+img_id: Reddit.com_5kpdqk_5kpdqk.png_Reddit.com_5kpdqk_dbpmakg.png 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image'] 
+references: ['give him gold rims', 'change the rims color from black to gold', 'color the wheels bronze'] 
+
+img_id: Reddit.com_4b8fxs_4b8fxs.jpg_Reddit.com_4b8fxs_d16wscy.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['click test i cant see the image on the right it wont let me  it says the image you are requesting does not exist or is no longer avalible', 'replace the entire image with white background and add a black bar with text', 'crop the image, color the whole image to black, add the text '] 
+
+img_id: Reddit.com_4u4v0f_4u4v0f.jpg_Reddit.com_4u4v0f_d5mul71_2.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['use area paint to change the background color', 'change the wall color from white to blue', 'make the rea around the girl blue'] 
+
+img_id: Reddit.com_4wj076_4wj076.jpg_Reddit.com_4wj076_d67e3up.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['remove the three people from the back', 'remove the people in the background', 'decrease the image brightness'] 
+
+img_id: Reddit.com_5gxjxk_5gxjxk.jpg_Reddit.com_5gxjxk_davvhpg.jpg 
+candidates: ['make', 'the', 'background', 'a', 'little', 'bit'] 
+references: ['carefully crop out picture of family paste picture of family onto new background', 'resize the image and replace the background', 'change the image background'] 
+
+img_id: Reddit.com_5uayct_5uayct.jpg_Reddit.com_5uayct_ddso52f.jpg 
+candidates: ['lighten', 'up', 'the', 'whole', 'image'] 
+references: ['the glare you blacken that out', 'remove the glasses reflection', 'remove the reflection in the sunglasses'] 
+
+img_id: Reddit.com_4rgrbg_4rgrbg.jpg_Reddit.com_4rgrbg_d511on0.jpg 
+candidates: ['the', 'background', 'of', 'the', 'image', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['change the background move the people to the right', 'replace the background', 'change the image background'] 
+
+img_id: Reddit.com_53ojt1_53ojt1.jpg_Reddit.com_53ojt1_d7v12c7.jpg 
+candidates: ['add', 'a', '<UNK>', 'hat', 'and', 'the', 'dog'] 
+references: ['change the background add an army of soldiers going to war in the background replace the bat with a sword delete the baseball', 'replace the background and replace the baseball bat with the medieval longsword', 'remove the ball, change the image background'] 
+
+img_id: Reddit.com_5cjiny_5cjiny.jpg_Reddit.com_5cjiny_d9x0sl9.jpg 
+candidates: ['replace', 'the', 'background', 'with', 'a', 'zombie', 'with', 'the', 'background'] 
+references: ['remove the reflection in her glasses', 'darken the glasses', 'remove the reflection ifrom the glasses'] 
+
+img_id: Reddit.com_4gn3za_4gn3za.jpg_Reddit.com_4gn3za_d2j433q.jpg 
+candidates: ['remove', 'the', 'man', 'from', 'the', 'photo'] 
+references: ['turn the photo black and white by removing the saturation remove the subjects head replace the subjects head with a giraffe', "make the whole image black & white, replace the nasa logo with a smiley, place the giraffe head instead of the man's head", 'change the face, add black and white effect, change the nasa sign, change the text on the first sign'] 
+
+img_id: Reddit.com_5vty1e_5vty1e.jpg_Reddit.com_5vty1e_de4xxug.jpg 
+candidates: ['rotate', 'the', 'image', '90', 'degrees', 'remove', 'the', 'background', 'and', 'replace', 'it', 'with', 'a', 'colorful', 'building'] 
+references: ['make all the images a bit clearer ', 'remove the stains and scratches', 'remove the white lines from the pictures'] 
+
+img_id: Reddit.com_4q5ww1_4q5ww1.jpg_Reddit.com_4q5ww1_d4qgmwk.jpg 
+candidates: ['change', 'the', 'color', 'of', 'the', 'color', 'to', 'black'] 
+references: ['crop around the body of the guitar', 'crop the image', 'crop the image, color the white shape to brown'] 
+
+img_id: Reddit.com_597rsu_597rsu.jpg_Reddit.com_597rsu_d96b2p0.jpg 
+candidates: ['photoshop', 'him', 'on', 'face', 'and', 'put', 'it', 'in', 'the', 'background'] 
+references: ['add equations over the dogs face', "insert the mathematical numbers and signs over the dog's head", 'add the text on image'] 
+
+img_id: Reddit.com_5etsq4_5etsq4.jpg_Reddit.com_5etsq4_daf30rz.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['remove the restroom portables in the background', "remove the toilets in the background and darken the man's skin", "remove the toilets, make man's skin darker"] 
+
+img_id: Reddit.com_47frmr_47frmr.jpg_Reddit.com_47frmr_d0d0d40_2.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['remove his eyes nose and mouth insert face and ears of a person wearing sunglasses', "replace the spongebob's face with the other face", 'change the face'] 
+
+img_id: Reddit.com_5y4u46_5y4u46.jpg_Reddit.com_5y4u46_den6m6f.jpg 
+candidates: ['lighten', 'up', 'the', 'whole', 'image'] 
+references: ['remove woman', 'remove the person from the image', 'remove the woman from the image'] 
+
+img_id: Reddit.com_5pl0h0_5pl0h0.jpg_Reddit.com_5pl0h0_dcrz2tg_2.jpg 
+candidates: ['make', 'the', 'background', 'black', 'and', 'white'] 
+references: ['add same text on shirt below', 'insert the text "gimme" head till i\'m dead" on the t-shirt under the same text', 'add the "gimme\' head till i\'m dead" under the text on the t-shirt'] 
+
+img_id: Reddit.com_4r7vwz_4r7vwz.jpg_Reddit.com_4r7vwz_d4z641x.jpg 
+candidates: ['add', 'a', '<UNK>', 'hat'] 
+references: ['show a mirror image of him change the background to the game of thrones sword throne', 'resize the image, flip the man and insert the game of thrones iron throne background', 'rotate the image, change the image background'] 
+
+img_id: Reddit.com_3xaasd_3xaasd.jpg_Reddit.com_3xaasd_cy362mh.jpg 
+candidates: ['change', 'the', 'background', 'of', 'the', 'picture', 'to', 'a', 'black', 'and', 'white'] 
+references: ['remove the letters', 'remove the text "nyc', 'remove the "nyc" from the paper'] 
+
+img_id: Reddit.com_4kqjkl_4kqjkl.jpg_Reddit.com_4kqjkl_d3gyk6i.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['make the dogs head half the size make the background solid black', 'resize the dog and replace the background with the black one', 'add a black background'] 
+
+img_id: Reddit.com_5v6d2z_5v6d2z.jpg_Reddit.com_5v6d2z_ddzkekr.jpg 
+candidates: ['remove', 'the', 'people', 'from', 'the', 'background'] 
+references: ['edit out the text', 'remove the text from the entire image', 'rmove the text from the image'] 
+
+img_id: Reddit.com_4c43k9_4c43k9.jpg_Reddit.com_4c43k9_d1ev9f0_2.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['make her breasts larger', "enlarge the girl's chest", "make woman's breasts bigger"] 
+
+img_id: Reddit.com_4gzb31_4gzb31.jpg_Reddit.com_4gzb31_d2m5av3.jpg 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['show him holding a beer can', "add the beer can into the man's right hand", "add a bottle in man's hand"] 
+
+img_id: Reddit.com_5i6x0u_5i6x0u.jpg_Reddit.com_5i6x0u_db5xqfz.jpg 
+candidates: ['change', 'the', 'background', 'of', 'the', 'image', 'to', 'a', 'black', 'and', 'white'] 
+references: ['take people out of the background', 'remove the people around the man with the red t-shirt and the man with the red shirt and brown jacket, increase the brightness of the entire image', 'remove the people instead of the two man that pose in the picture, distort the building, increase the image brightness'] 
+
+img_id: Reddit.com_5b41gw_5b41gw.jpg_Reddit.com_5b41gw_d9lmh6p_1_8.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'picture'] 
+references: ['zoom out replace background with creepy image', 'resize the image and replace the background with the halloween forest', 'change the image background'] 
+
+img_id: Reddit.com_5ey1wb_5ey1wb.jpg_Reddit.com_5ey1wb_dag4y27_2.jpg 
+candidates: ['remove', 'the', 'text', 'from', 'the', 'photo'] 
+references: ['remove white text', 'remove all white text and barcode from the image', 'remove the white text in the centre, increase the image contrast'] 
+
+img_id: Reddit.com_563otp_563otp.jpg_Reddit.com_563otp_d8g1x29.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['make writing pink', 'replace the black color with the pink', 'color the text to pink'] 
+
+img_id: Reddit.com_4u8euw_4u8euw.jpg_Reddit.com_4u8euw_d5nn573.png 
+candidates: ['increase', 'the', 'contrast', 'in', 'the', 'whole', 'image'] 
+references: ['remove everything except for the person add in new background', 'cut the man from the image and place him into the terrain', 'change the image background'] 
+
+img_id: Reddit.com_5a4dik_5a4dik.jpg_Reddit.com_5a4dik_d9dny7c_1_2.jpg 
+candidates: ['remove', 'the', 'people', 'from', 'the', 'background'] 
+references: ['make birghter', 'increase the brightness of the entire image and remove the birds', 'increase the image brightness'] 
+
+img_id: Reddit.com_3xaasd_3xaasd.jpg_Reddit.com_3xaasd_cy362mh.jpg 
+candidates: ['change', 'the', 'background', 'of', 'the', 'picture', 'to', 'a', 'black', 'and', 'white'] 
+references: ['make the poster she is holding blank', 'remove the text "nyc', 'remove the "nyc" from the paper'] 
+
+img_id: Reddit.com_5h1gvb_5h1gvb.jpg_Reddit.com_5h1gvb_dayf17w.jpg 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['add mask to their faces ', 'place the anonymous masks onto the faces', 'change the faces'] 
+
+img_id: Reddit.com_5a4qew_5a4qew.jpg_Reddit.com_5a4qew_d9drjby.jpg 
+candidates: ['add', 'the', 'background', 'of', 'the', 'picture'] 
+references: ['change background to canyon add flying pig', 'resize the image and replace the background', 'change the image background'] 
+
+img_id: Reddit.com_429hd4_429hd4.jpg_Reddit.com_429hd4_cz8omj6.jpg 
+candidates: ['rotate', 'the', 'image', 'clockwise'] 
+references: ['put photo on flagpole', 'make the flag of the entire image and add the iron stick on the left side', 'add the picture to the flag, crumple the picture'] 
+
+img_id: Reddit.com_5h1z3u_5h1z3u.jpg_Reddit.com_5h1z3u_dawyycj.png 
+candidates: ['remove', 'the', 'text', 'from', 'the', 'photo'] 
+references: ['replace moon with deathstar', 'replace the moon with the death star', 'change the moon'] 
+
+img_id: Reddit.com_565wrk_565wrk.jpg_Reddit.com_565wrk_d8gt749.jpg 
+candidates: ['make', 'the', 'background', 'of', 'the', 'picture'] 
+references: ['enhance the image so that its less distorted', 'resize the image and add more yellow color to the image', 'crop the image, increase the image contrast'] 
+
+img_id: Reddit.com_563otp_563otp.jpg_Reddit.com_563otp_d8g1x29_1_1.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['change background of image to purple', 'make the background pink', 'add a pink background'] 
+
+img_id: Reddit.com_5mpzns_5mpzns.jpg_Reddit.com_5mpzns_dc5gz3s.png 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['lighten up the whole image', 'increase the contrast of the entire image', "resize second man's pocket"] 
+
+img_id: Reddit.com_5c48g0_5c48g0.jpg_Reddit.com_5c48g0_d9ti4gw.jpg 
+candidates: ['change', 'the', 'color', 'of', 'the', 'color', 'to', 'black'] 
+references: ['make the red line into blue ', 'replace the red with blue', 'change the red color to blue'] 
+
+img_id: Reddit.com_3xoia8_3xoia8.jpg_Reddit.com_3xoia8_cy6f7wp.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['remove the two people', 'remove the people from the image', 'remove the couple in the centre'] 
+
+img_id: Reddit.com_5v3yg9_5v3yg9.jpg_Reddit.com_5v3yg9_ddz2rs5_1_1.jpg 
+candidates: ['lighten', 'the', 'picture'] 
+references: ['increase the brightness of the whole image', 'increase the brightness of the entire image', 'color the wheels blue, increase the image brightness'] 
+
+img_id: Reddit.com_5qsd6m_5qsd6m.jpg_Reddit.com_5qsd6m_dd1qimk.jpg 
+candidates: ['crop', 'the', 'image', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['make the image darker and more colorful', 'darken the entire image', 'increase the image contrast, change the eyes of the third girl from the left'] 
+
+img_id: Reddit.com_5x7w8h_5x7w8h.jpg_Reddit.com_5x7w8h_defzhgy.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'picture'] 
+references: ['color correct', 'decrease the red color of the image', 'remove the effect'] 
+
+img_id: Reddit.com_4cqimb_4cqimb.jpg_Reddit.com_4cqimb_d1kjjz1.jpg 
+candidates: ['make', 'the', 'whole', 'image', 'brighter'] 
+references: ['remove all of the people from the photo', 'increase the brightness of the image and remove the people', 'remove the people, increase the image contrast'] 
+
+img_id: Reddit.com_4bvzc3_4bvzc3.jpg_Reddit.com_4bvzc3_d1d36g7.jpg 
+candidates: ['remove', 'the', 'black', 'background'] 
+references: ['smooth out background', 'change the color of the background', 'remove imperfections, add a white area around the glass'] 
+
+img_id: Reddit.com_51tirs_51tirs.jpg_Reddit.com_51tirs_d7eq1hr.jpg 
+candidates: ['take', 'away', 'the', 'background'] 
+references: ['remove skin blemishes', 'remove the acne from baby hand', "remove the redness from baby's arm"] 
+
+img_id: Reddit.com_4vedaw_4vedaw.jpg_Reddit.com_4vedaw_d5xo2ab.jpg 
+candidates: ['edit', 'the', 'background', 'of', 'this', 'picture', ''] 
+references: ['remove his eyebrows', 'remove the eyebrows', 'remove the eyebrows'] 
+
+img_id: Reddit.com_4g3lk8_4g3lk8.jpg_Reddit.com_4g3lk8_d2ennj1.jpg 
+candidates: ['add', 'in', 'the', 'background'] 
+references: ['shrink her  change background to beach replace flowers with beach ball', 'crop out the girl, add the ball into her hands and place her into different background', 'add a ball instead of flowers, change the image background'] 
+
+img_id: Reddit.com_4yyuke_4yyuke.jpg_Reddit.com_4yyuke_d6ririw.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['change the background', 'resize the image and insert the background of diagon alley from harry potter', 'change the image background'] 
+
+img_id: Reddit.com_5vm7j5_5vm7j5.jpg_Reddit.com_5vm7j5_de36jq6.jpg 
+candidates: ['zoom', 'in', 'and', 'crop', 'and', 'zoom', 'in', 'on', 'the', 'picture'] 
+references: ['remove text', 'remove all the text and logo from the image', 'remove all the signs and the text'] 
+
+img_id: Reddit.com_5mufd9_5mufd9.jpg_Reddit.com_5mufd9_dc6g8ux.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'make', 'it', 'white'] 
+references: ['make picture clear', 'remove the yellow border and white cubes from the image, increase the contrast of the entire image', 'remove spots, increase image contrast'] 
+
+img_id: Reddit.com_59znx5_59znx5.jpg_Reddit.com_59znx5_d9d073x.png 
+candidates: ['add', 'a', 'new', 'background', 'behind', 'the', 'man'] 
+references: ['remove the entire background from around the dog and put him in front of a magical sealike place', 'resize the dog and insert the storm ocean background', 'change the image background'] 
+
+img_id: Reddit.com_58wumh_58wumh.jpg_Reddit.com_58wumh_d93wh83.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'photo'] 
+references: ['remove the background and put the people and dogs in front of a star wars background', 'crop the people and the dogs and place them onto the new background', 'change the image background'] 
+
+img_id: Reddit.com_5z5ld5_5z5ld5.jpg_Reddit.com_5z5ld5_devjl32.jpg 
+candidates: ['make', 'the', 'background', 'a', 'little', 'bit'] 
+references: ['zoom out the entire photo and remove the distortion', 'extend the image end sharpen it', 'change the image background'] 
+
+img_id: Reddit.com_5uvxih_5uvxih.jpg_Reddit.com_5uvxih_ddxa2eh.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['add a darker warmer tone to the entire photo', 'add more yellownes to the image', 'alo breeeeeeeeeee'] 
+
+img_id: Reddit.com_56ut9p_56ut9p.jpg_Reddit.com_56ut9p_d8milkg.jpg 
+candidates: ['remove', 'the', 'car', 'from', 'the', 'picture'] 
+references: ['darken the rims of the car', 'change the rims from gray to black', 'increase image brightness, make colors warmer'] 
+
+img_id: Reddit.com_5c65i7_5c65i7.jpg_Reddit.com_5c65i7_d9tz1yy.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['remove the collar', 'remove the pink leash', 'remove the leash'] 
+
+img_id: Reddit.com_5tz4k9_5tz4k9.jpg_Reddit.com_5tz4k9_ddq59cz.jpg 
+candidates: ['remove', 'the', 'people', 'from', 'the', 'background'] 
+references: ['tone up the color', 'increase the intensity of the colors', 'increase the image contrast'] 
+
+img_id: Reddit.com_5y57va_5y57va.jpg_Reddit.com_5y57va_denjzvs_1_1.jpg 
+candidates: ['add', 'in', 'the', 'word', '<UNK>'] 
+references: ['zoom in on the plant', 'crop the image and distort it', 'crop the image, distort the image'] 
+
+img_id: Reddit.com_5pxilm_5pxilm.jpg_Reddit.com_5pxilm_dcv7h3p_1_1.png 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'black', 'background'] 
+references: ['change color to black', 'make the whole image black and crop it', 'crop the image, color the image to black'] 
+
+img_id: Reddit.com_56y4xv_56y4xv.jpg_Reddit.com_56y4xv_d8nbgmg.jpg 
+candidates: ['edit', 'out', 'the', 'background'] 
+references: ['remove the logo', 'remove the logo from the bottom right corner', 'remove the "f" sign in the right corner of the image'] 
+
+img_id: Reddit.com_3xt1os_3xt1os.jpg_Reddit.com_3xt1os_cy7kf35.png 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['adjust the brighness', 'resize the image and sharpen it', 'make the image bigger'] 
+
+img_id: Reddit.com_4fqa4a_4fqa4a.jpg_Reddit.com_4fqa4a_d2b2kym.jpg 
+candidates: ['make', 'the', 'background', 'black', 'and', 'white'] 
+references: ['remove all of texts', 'remove the text from the entire image', 'remove the text and the white corners from the image'] 
+
+img_id: Reddit.com_4tx3f0_4tx3f0.jpg_Reddit.com_4tx3f0_d5kyin3_2.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['remove letters', 'replace the background with a green one', 'add a green background to the whole image'] 
+
+img_id: Reddit.com_5kjrkc_5kjrkc.jpg_Reddit.com_5kjrkc_dboo3kz.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['change words', 'change the text on the globe', 'change the text'] 
+
+img_id: Reddit.com_5cjiny_5cjiny.jpg_Reddit.com_5cjiny_d9x0sl9.jpg 
+candidates: ['replace', 'the', 'background', 'with', 'a', 'zombie', 'with', 'the', 'background'] 
+references: ['make her sunglasses darker', 'darken the glasses', 'remove the reflection from the sunglasses'] 
+
+img_id: Reddit.com_3xz2x7_3xz2x7.jpg_Reddit.com_3xz2x7_cy95hde.jpg 
+candidates: ['increase', 'the', 'contrast', 'of', 'the', 'entire', 'image'] 
+references: ['make the whole image more colorful', 'increase the brightness of the entire image', 'increase the image contrast'] 
+
+img_id: Reddit.com_4lvp4j_4lvp4j.jpg_Reddit.com_4lvp4j_d3qp86u_2.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['replace background with green gradient', 'remove the background', 'change the background'] 
+
+img_id: Reddit.com_4sbefv_4sbefv.jpg_Reddit.com_4sbefv_d57yb5s.png 
+candidates: ['remove', 'the', 'black', 'background'] 
+references: ['remove all wrinkles', 'remove the scratches, stains and background', 'remove the white lines from the picture'] 
+
+img_id: Reddit.com_41q2f5_41q2f5.jpg_Reddit.com_41q2f5_cz4cclh.jpg 
+candidates: ['<UNK>', 'the', 'image'] 
+references: ['replace face', 'change the face', 'change the face'] 
+
+img_id: Reddit.com_5x7w8h_5x7w8h.jpg_Reddit.com_5x7w8h_defzhgy.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'picture'] 
+references: ['increase contrast', 'decrease the red color of the image', 'remove the effect'] 
+
+img_id: Reddit.com_56y4xv_56y4xv.jpg_Reddit.com_56y4xv_d8nbgmg.jpg 
+candidates: ['edit', 'out', 'the', 'background'] 
+references: ['take the logo out of the picture', 'remove the logo from the bottom right corner', 'remove the sign in the right side of the image'] 
+
+img_id: Reddit.com_41qeed_41qeed.jpg_Reddit.com_41qeed_cz4g0ck.jpg 
+candidates: ['make', 'the', 'image', 'brighter'] 
+references: ['remove lady ', "remove the woman and the boat behind her, increase the boy's brightness", 'remove the woman, remove the boat behind the woman, remove the figures behind the boat, make the boy brighter'] 
+
+img_id: Reddit.com_56ut9p_56ut9p.jpg_Reddit.com_56ut9p_d8milkg.jpg 
+candidates: ['remove', 'the', 'car', 'from', 'the', 'picture'] 
+references: ['darken rims', 'change the rims color from gray to black', 'color the wheels to black'] 
+
+img_id: Reddit.com_41kzk7_41kzk7.jpg_Reddit.com_41kzk7_cz36s8w.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['change text to say beach change text to say tiger', 'change the word "arc" to "beach" and the word "neon" to "tiger', 'change the text to "beach tiger", crop the image'] 
+
+img_id: Reddit.com_5mm9cg_5mm9cg.jpg_Reddit.com_5mm9cg_dc4mp7h.jpg 
+candidates: ['make', 'background', 'white'] 
+references: ['change hair color to black', 'change the hair color from white to black', 'color the hair to black'] 
+
+img_id: Reddit.com_4xf8z3_4xf8z3.jpg_Reddit.com_4xf8z3_d6ez4md.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['replace the black fill with galaxy insert a yellow background around and in between the lines', 'make the background yellow and replace the black color with space and stars', 'color the white area to yellow, change the color of the sign'] 
+
+img_id: Reddit.com_56we5s_56we5s.jpg_Reddit.com_56we5s_d8nde2m.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['remove the finger from the image', 'remove the finger from the bottom right corner and increase the contrast of the entire image', 'increase the image contrast, remove the finger in the right side of the picture'] 
+
+img_id: Reddit.com_58x0os_58x0os.jpg_Reddit.com_58x0os_d93zqx3.png 
+candidates: ['add', 'a', 'new', 'background'] 
+references: ['change his cigarette to a straw', 'replace the cigarette with pencil', 'change the cigarette'] 
+
+img_id: Reddit.com_56xsxz_56xsxz.jpg_Reddit.com_56xsxz_d8n9fuz.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['remove kanye and make background white', 'remove the background and man, leave only stairs and floor', 'add a white background above and next to the stage'] 
+
+img_id: Reddit.com_5i3lbb_5i3lbb.jpg_Reddit.com_5i3lbb_db5218z_2.png 
+candidates: ['remove', 'the', 'text', 'from', '<UNK>', '<UNK>'] 
+references: ['blank remove text crop in circle shape', 'crop the image', 'crop the text at the bottom and at the top od the picture'] 
+
+img_id: Reddit.com_3xu985_3xu985.jpg_Reddit.com_3xu985_cy7un4h.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'background', 'of', 'a', 'picture', 'of', 'the', '<UNK>'] 
+references: ['remove stain from image', 'remove the white stains and the object from the bottom left corner', 'remove the white spots, remove the object in the left corner'] 
+
+img_id: Reddit.com_5cqa9m_5cqa9m.jpg_Reddit.com_5cqa9m_d9yirtb.png 
+candidates: ['remove', 'the', 'car', 'from', 'the', 'picture'] 
+references: ['flip the whole image', 'flip the entire image and replace the text "gc motors" with "mini r', 'rotate the image'] 
+
+img_id: Reddit.com_5ucvc9_5ucvc9.jpg_Reddit.com_5ucvc9_ddt48kp.jpg 
+candidates: ['make', 'the', 'background', 'solid', 'white'] 
+references: ['remove the american flag on the picture', 'remove the us flag from the image', 'remove the sail'] 
+
+img_id: Reddit.com_5242wa_5242wa.jpg_Reddit.com_5242wa_d7h4u7d.jpg 
+candidates: ['change', 'background'] 
+references: ['eliminate  esc skip', 'remove all the text from the image', 'remove the text from the right corner'] 
+
+img_id: Reddit.com_4pyg2x_4pyg2x.jpg_Reddit.com_4pyg2x_d4ovjiq.jpg 
+candidates: ['remove', 'the', 'people', 'from', 'the', 'background'] 
+references: ['take off the people in the background', 'remove the people and glass reflection behind the girl in white dress', 'remove the people behind the bride in the centre'] 
+
+img_id: Reddit.com_5vop12_5vop12.jpg_Reddit.com_5vop12_de3p0c5.jpg 
+candidates: ['crop', 'the', 'image', 'and', 'add', 'a', 'new', 'background', 'behind', 'the', 'man'] 
+references: ['crop the photo with a black border', 'crop the image, add black borders and increase the yellowness of the entire image', 'crop the image, add the effect'] 
+
+img_id: Reddit.com_5fgogu_5fgogu.jpg_Reddit.com_5fgogu_dak4ir8_1_2.jpg 
+candidates: ['remove', 'the', 'leash'] 
+references: ['change the background color to yellow', 'add the cartoonish filter and make the background yellow', 'color the area around the dog to yellow, add the effect'] 
+
+img_id: Reddit.com_5wciqi_5wciqi.jpg_Reddit.com_5wciqi_de94wjq.jpg 
+candidates: ['add', 'a', '<UNK>', 'hat', 'and', 'the', 'word', '<UNK>'] 
+references: ['add a pencil in homers mouth', "remove all the text from the image and place the pencil into the homer's mouth ", 'add the pencil in his mouth, remove the text in the left corner'] 
+
+img_id: Reddit.com_560q2f_560q2f.jpg_Reddit.com_560q2f_d8fg18v.jpg 
+candidates: ['add', 'a', '<UNK>', 'in', 'the', 'background'] 
+references: ['crop with a heart with a rose pattern and write together strong across the top', 'crop the image and place it into the heart frame', 'add the picture to the heart frame, add the text "together strong" in the top of the picture, change the background around the frame'] 
+
+img_id: Reddit.com_52kvaa_52kvaa.jpg_Reddit.com_52kvaa_d7l8459.png 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['add fire in background', 'insert the explosion behind the man in the suit', 'add a fire behind the man'] 
+
+img_id: Reddit.com_3ydesk_3ydesk.jpg_Reddit.com_3ydesk_cyck79x.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['remove writing crop and retouch', 'crop the image and remove all the text', 'remove "tom" and "jack" from the image, crop the image'] 
+
+img_id: Reddit.com_4870hl_4870hl.jpg_Reddit.com_4870hl_d0hf66u.jpg 
+candidates: ['make', 'the', 'whole', 'image', 'brighter'] 
+references: ['remove blur', "remove the blur above the girl's head", 'remove the black shadow '] 
+
+img_id: Reddit.com_5eooy0_5eooy0.jpg_Reddit.com_5eooy0_dae04k7.png 
+candidates: ['add', 'a', 'mario', 'hat', 'and', 'the', 'word', '<UNK>'] 
+references: ['add a tiger', 'insert the tiger behind the man', 'add a tiger behind the man, increase the image contrast'] 
+
+img_id: Reddit.com_5nfpup_5nfpup.jpg_Reddit.com_5nfpup_dcb6d1o_2.jpg 
+candidates: ['change', 'background', 'to', 'black', 'and', 'white'] 
+references: ['remove people from background add man from shining in doorway', "remove the people behind the girl and insert jack nicholson's head on the wall behind the girl", 'remove the people behind the woman in the centre, increase the image contrast, add the door with the figure behind the woman'] 
+
+img_id: Reddit.com_4tmzb5_4tmzb5.png_Reddit.com_4tmzb5_d5ik65z.jpg 
+candidates: ['add', 'in', 'the', 'background'] 
+references: ['erase the line that says buddha and have the large line reflect in the water', 'add the text reflection in the water', 'remove "buddha", add the reflection of the text in the water'] 
+
+img_id: Reddit.com_5eamv5_5eamv5.jpg_Reddit.com_5eamv5_daaxucl.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'forest', ''] 
+references: ['change hair color to blue', 'change the hair from red to blue', "color girl's hair blue"] 
+
+img_id: Reddit.com_4v8yot_4v8yot.jpg_Reddit.com_4v8yot_d5whk0j.jpg 
+candidates: ['change', 'the', 'background', 'of', 'the', 'picture', 'to', 'a', 'black', 'and', 'white'] 
+references: ['change to skin tone color', "change the girl's skin color", "change the color of woman's skin"] 
+
+img_id: Reddit.com_59ksv4_59ksv4.jpg_Reddit.com_59ksv4_d99a0ag.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'entire', 'picture'] 
+references: ['edit out the tree that is in front of the woman', 'remove the tree in front of the woman and increase the contrast', 'remove the tree in front of the girl, add the effect'] 
+
+img_id: Reddit.com_47it8a_47it8a.jpg_Reddit.com_47it8a_d0d836a.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['zoom in', 'crop the image', "crop the images, remove hairs from man's face"] 
+
+img_id: Reddit.com_5v3o3x_5v3o3x.jpg_Reddit.com_5v3o3x_ddz1aw8.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'image'] 
+references: ['edit the color so that everything is brighter', 'increase the contrast of the image', 'increase the image contrast'] 
+
+img_id: Reddit.com_43e4i9_43e4i9.jpg_Reddit.com_43e4i9_czhkhgc.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['remove background and add picture of greenery behind couple', 'cut out the boy and the girl that kisses him and place them into a forest background', 'change the image background'] 
+
+img_id: Reddit.com_5u1txh_5u1txh.jpg_Reddit.com_5u1txh_ddqpri1.jpg 
+candidates: ['<UNK>', 'the', 'background', 'of', 'the', 'image'] 
+references: ['color over face and body', 'posterize the boy', "paint man's shirt and face"] 
+
+img_id: Reddit.com_52er0n_52er0n.jpg_Reddit.com_52er0n_d7k1kub.jpg 
+candidates: ['replace', 'the', 'background', 'with', 'a', 'zombie', 'with', 'the', 'background'] 
+references: ['add a gorilla to the background', 'insert king kong behind three guys with the cans', 'add a gorilla in front of the man with blue hat, remove the man with blue hat'] 
+
+img_id: Reddit.com_4368qw_4368qw.png_Reddit.com_4368qw_czfwlq7.jpg 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['add heartshaped emblem in front of midsection of girl and blur the back picture of her out', 'duplicate the girl and fit her in a heart-shaped frame in front of herself, blur the background', 'crop the image, add the image to the heart, use the blured image as the new background'] 
+
+img_id: Reddit.com_43e4i9_43e4i9.jpg_Reddit.com_43e4i9_czhkhgc.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['remove the person from the background remove the shop background add the background of a green passage', 'cut out the boy and the girl that kisses him and place them into a forest background', 'change the image background'] 
+
+img_id: Reddit.com_53vmir_53vmir.jpg_Reddit.com_53vmir_d7wnm87.jpg 
+candidates: ['put', 'a', 'cartoon', 'character', 'on', 'the', 'right', 'side', 'of', 'the', 'picture'] 
+references: ['put a cell phone in jesus hand', 'insert the cellphone into the jesus right hand', "add a cellphone in man's right hand"] 
+
+img_id: Reddit.com_3yp5aa_3yp5aa.jpg_Reddit.com_3yp5aa_cyfdbrb_1_2.jpg 
+candidates: ['make', 'the', 'image', 'brighter'] 
+references: ['remove blemishes from persons face', "remove the black stain from the girl's cheek", 'remove imperfections from the face'] 
+
+img_id: Reddit.com_3xtuln_3xtuln.jpg_Reddit.com_3xtuln_cy7zbgf.jpg 
+candidates: ['make', 'the', 'background', 'solid', 'white'] 
+references: ['turn car red', 'change the car color from black to orange', 'color the car to orange'] 
+
+img_id: Reddit.com_5umeu7_5umeu7.jpg_Reddit.com_5umeu7_ddv577f.png 
+candidates: ['zoom', 'out', 'of', 'the', 'picture'] 
+references: ['remove fetus and add taco', 'insert the sandwich over the baby', 'add a sandwich on the baby'] 
+
+img_id: Reddit.com_5ex92a_5ex92a.jpg_Reddit.com_5ex92a_dafur4d_1_3.jpg 
+candidates: ['color'] 
+references: ['remove cord', 'remove the black cable', 'remove the cable'] 
+
+img_id: Reddit.com_5uaf7e_5uaf7e.jpg_Reddit.com_5uaf7e_ddsusb4_1_4.png 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['remove text', 'remove the text from the image', 'remove the text'] 
+
+img_id: Reddit.com_5uhbsf_5uhbsf.jpg_Reddit.com_5uhbsf_ddu0f6w.jpg 
+candidates: ['rotate', 'the', 'image'] 
+references: ['take out the brackground and make it white', 'remove the background and replace it with a white one', 'add a white background to the whole image'] 
+
+img_id: Reddit.com_5c48g0_5c48g0.jpg_Reddit.com_5c48g0_d9ti4gw.jpg 
+candidates: ['change', 'the', 'color', 'of', 'the', 'color', 'to', 'black'] 
+references: ['change red to blue change red to blue', 'change red color to blue', 'change red lights with blue'] 
+
+img_id: Reddit.com_4zsy3f_4zsy3f.jpg_Reddit.com_4zsy3f_d6ytqgl.jpg 
+candidates: ['rotate', 'the', 'image', '90', 'degrees', 'clockwise', 'remove', 'the', 'background'] 
+references: ['take out the wrapper in between his paws', 'remove the necklace and the yellow object from dog paws', 'remove yellow object from dogs paws'] 
+
+img_id: Reddit.com_5e696f_5e696f.jpg_Reddit.com_5e696f_daa13th.jpg 
+candidates: ['make', 'the', 'background', 'of', 'the', 'image'] 
+references: ['darken skin tone', "darken the girl's back and tattoo", "make woman's skin darker, make woman's tattoo darker"] 
+
+img_id: Reddit.com_5vm7j5_5vm7j5.jpg_Reddit.com_5vm7j5_de36jq6_1_1.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'picture'] 
+references: ['take the logos out of the top left and top right', 'remove all the text and logo from the image', 'remove all the text from the image, remove the sign in the right corner and at the bottom'] 
+
+img_id: Reddit.com_52nfhb_52nfhb.jpg_Reddit.com_52nfhb_d7lp1d4.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['change bumper to white to match car', 'change the car parts color from red and gray to white', 'color the red and the grey part of the car to white'] 
+
+img_id: Reddit.com_5067pr_5067pr.jpg_Reddit.com_5067pr_d71jglp.jpg 
+candidates: ['make', 'the', 'background', 'white'] 
+references: ['crop image delete truck delete retail sign', 'remove the chairs, sign and the red car in the top left corner', 'crop the image, remove the board behind the car'] 
+
+img_id: Reddit.com_5a4dik_5a4dik.jpg_Reddit.com_5a4dik_d9dnscy_1_1.png 
+candidates: ['remove', 'the', 'people', 'in', 'the', 'background'] 
+references: ['clone out the tree and transform the mountain', 'zoom out the image and move the camera more to the left', 'crop the image, remove the tree in the right side'] 
+
+img_id: Reddit.com_560q2f_560q2f.jpg_Reddit.com_560q2f_d8fg18v_1_3.jpg 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['place heart shape photo frame around image add text at bottom of the frame together strong', 'crop the image and place it into the heart frame', 'add the photo into heart frame, change the background around the frame, add the text "together strong" at the bottom of the image'] 
+
+img_id: Reddit.com_4z3rjd_4z3rjd.jpg_Reddit.com_4z3rjd_d6sop6u.jpg 
+candidates: ['rotate', 'the', 'image', '90', 'degrees', 'make', 'the', 'background', 'black', 'and', 'white'] 
+references: ['rotate picture 90 degrees clockwise  add natural coloring ', 'colorize the entire image, crop and rotate it', 'rotate the image, crop the image, remove the black and white effect'] 
+
+img_id: Reddit.com_58vve3_58vve3.jpg_Reddit.com_58vve3_d93tunv.png 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['add hat add flag change language add vodka', "add russian hat on top of the cat's head, add russian flag to the left of the image, add vodka bottle to the right of the image and change the text from english to russian", "change the text, add the hat to the cat's head, add the flag to the left side, add the bottle to the right side"] 
+
+img_id: Reddit.com_4gzb31_4gzb31.jpg_Reddit.com_4gzb31_d2m5av3.jpg 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['add a canned drink to the mans hand', "add the beer can into the man's right hand", 'add a bottle in his hand'] 
+
+img_id: Reddit.com_41qeed_41qeed.jpg_Reddit.com_41qeed_cz4jm1a.jpg 
+candidates: ['make', 'the', 'image', 'brighter'] 
+references: ['remove the woman brighten up the image', 'remove the woman, the boat dock and the boat behind her and significantly increase the brightness of the image', 'icrease the image lightness, remove the woman, remove the boat behind the woman, remove the bridge behind the woman'] 
+
+img_id: Reddit.com_4zrz4z_4zrz4z.jpg_Reddit.com_4zrz4z_d6ybbxy.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'black', 'background'] 
+references: ['remove the wires', "remove the tubes from the old lady's face", 'remove the tube '] 
+
+img_id: Reddit.com_47563z_47563z.jpg_Reddit.com_47563z_d0abnli_2.jpg 
+candidates: ['crop', 'the', 'image', 'add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['remove the man', 'remove the man from the image and increase the color intensity', 'remove the man from the image'] 
+
+img_id: Reddit.com_5f7ql8_5f7ql8.jpg_Reddit.com_5f7ql8_dail4ma.jpg 
+candidates: ['change', 'the', 'background', 'of', 'the', 'picture', 'to', 'a', 'black', 'and', 'white'] 
+references: ['stomach should be bigger', "lighten the boy's skin and insert a fat man's body instead of his body", "change the man's skin tone to brighter, make man's stomach bigger"] 
+
+img_id: Reddit.com_5wb6y0_5wb6y0.jpg_Reddit.com_5wb6y0_de8u5ep.jpg 
+candidates: ['crop', 'the', 'image', 'out', 'of', 'the', 'picture'] 
+references: ['remove the man who took the photo', 'remove the man in the orange pullover and remove his shadow and reflection', 'remove the man with the camera'] 
+
+img_id: Reddit.com_54bh90_54bh90.jpg_Reddit.com_54bh90_d80hu8h.png 
+candidates: ['make', 'the', 'image', 'brighter'] 
+references: ['remove the sharpness', 'zoom in the image, make it blur and add two black lines in the image sides', 'make the image bigger, blur the image'] 
+
+img_id: Reddit.com_4spxz0_4spxz0.png_Reddit.com_4spxz0_d5bldhl.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['remove the background', 'make the background black', 'remove the signs in the left and right corner, remove the signs at the bottom, add a black background to the image'] 
+
+img_id: Reddit.com_545kb7_545kb7.jpg_Reddit.com_545kb7_d7z3m6v.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['remove people', 'remove the people and the birds from the image', 'remove every object in the sea, remove spots from the sky'] 
+
+img_id: Reddit.com_4pqkyo_4pqkyo.jpg_Reddit.com_4pqkyo_d4n3oqb.jpg 
+candidates: ['rotate', 'picture', '90', 'degrees', 'clockwise'] 
+references: ['remove the text', 'remove the  text "hello it\'s me', 'remove the text from the image'] 
+
+img_id: Reddit.com_5eixwn_5eixwn.jpg_Reddit.com_5eixwn_dacuksg.jpg 
+candidates: ['change', 'the', 'background', 'of', 'the', 'picture', 'to', 'a', 'black', 'and', 'white'] 
+references: ['apply a black and white filter around the man and then increase the contrast', 'make the whole image black & white and posterize it', 'add black and white effect'] 
+
+img_id: Reddit.com_5u1txh_5u1txh.jpg_Reddit.com_5u1txh_ddqowka.png 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['apply a filter', 'posterize the whole image', 'add the effect'] 
+
+img_id: Reddit.com_56shoa_56shoa.jpg_Reddit.com_56shoa_d8lytc5.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['remove acne', "remove acne from the boy's face", "remove imperfactions from boy's face"] 
+
+img_id: Reddit.com_4rzt6l_4rzt6l.jpg_Reddit.com_4rzt6l_d55jgsj.jpg 
+candidates: ['add', 'in', 'graffiti', 'in', 'the', 'background'] 
+references: ['add sunglasses to the penguin add a pistol to the penguins left hand', 'add a black glasses to the penguins head and a gun under the left arm', "put the glasses on penguins eyes, and the gun in the penguin's paw"] 
+
+img_id: Reddit.com_4q8w8q_4q8w8q.jpg_Reddit.com_4q8w8q_d4r2lzb_2.png 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['change hair color from white to blue', 'change the hair color from white to blue', "color man's hair blue"] 
+
+img_id: Reddit.com_5v6mu7_5v6mu7.png_Reddit.com_5v6mu7_ddzm6m8.png 
+candidates: ['remove', 'the', 'black', 'background'] 
+references: ['change entire background to brown', 'change the background from white to brown', 'change the white color with brown'] 
+
+img_id: Reddit.com_52otp0_52otp0.jpg_Reddit.com_52otp0_d7m0w6s.jpg 
+candidates: ['remove', 'the', 'glare', 'from', 'the', 'photo'] 
+references: ['lighten contrast of entire photo remove textbox', 'remove the black bar with the text "why do u want photo" and increase the brightness of the entire image', 'remove the text from the image, remove the horizontal line, increase the image brightness'] 
+
+img_id: Reddit.com_545sc1_545sc1.jpg_Reddit.com_545sc1_d7ziar5.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['remove the condensation on the glass', 'remove the dirtiness from the glass', 'blur the area inside the glass'] 
+
+img_id: Reddit.com_4wnec0_4wnec0.jpg_Reddit.com_4wnec0_d68dwis.jpg 
+candidates: ['make', 'the', 'whole', 'image', 'brighter'] 
+references: ['remove the fan', "remove the white device from the dog's body", 'remove the white object in the right side of the dog'] 
+
+img_id: Reddit.com_46z2fs_46z2fs.jpg_Reddit.com_46z2fs_d08xc3x.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['remove the woman', 'rotate the image slightly, increase the brightness and remove the girl ', 'remove the image behind the man, distrort the image, make the colors more white'] 
+
+img_id: Reddit.com_594kou_594kou.jpg_Reddit.com_594kou_d95lsmt.jpg 
+candidates: ['change', 'the', 'background', 'to', 'white'] 
+references: ['change the initials to wv', 'change the letters "j.r." to "w.v." and change the text "derailed" to "focused', 'change the text "j.r" to "v.w", add a point between the letters "v" and w" and after "w", change the text on man\'s shirt to "focused'] 
+
+img_id: Reddit.com_4owycq_4owycq.jpg_Reddit.com_4owycq_d4ga6vo.jpg 
+candidates: ['zoom', 'out', 'on', 'the', 'background'] 
+references: ['remove writing', 'remove the text from the image', 'remove all the text in the picture'] 
+
+img_id: Reddit.com_54zcwb_54zcwb.jpg_Reddit.com_54zcwb_d8749go.jpg 
+candidates: ['add', 'a', 'new', 'background', 'behind', 'the', 'man'] 
+references: ['move boots and writing closer to dog', 'move the yellow boots and the number "2017" to the left', 'increase the image contrast, move yellow booths and the text "2017" closer to the dog'] 
+
+img_id: Reddit.com_41kol4_41kol4.jpg_Reddit.com_41kol4_cz32o8v.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['remove the text', 'remove the black bar with the text "nice stume', 'remove the text, remove the horizontal line'] 
+
+img_id: Reddit.com_5uaf7e_5uaf7e.jpg_Reddit.com_5uaf7e_ddsusb4_1_6.png 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['remove the text', 'remove the text from the image', 'remove all the text from the image'] 
+
+img_id: Zhopped.com_7FHMt_7FHMt.jpg_Zhopped.com_7FHMt_v4Nn5.jpg 
+candidates: ['lighten', 'the', 'picture'] 
+references: ['crop this picture add more contrast', "zoom in the image and remove a blue color from the top of the girl's head", 'crop the image, remove the blue light in the right corner'] 
+
+img_id: Zhopped.com_kbb6d_kbb6d.jpg_Zhopped.com_kbb6d_rgjKn.jpg 
+candidates: ['make', 'the', 'background', 'solid', 'white'] 
+references: ['photoshop entire image to make it look like it is being viewed in a museum', 'crop the image, add a filter, put the image into the big frame in front of the people', 'crop the image, add the image to the frame'] 
+
+img_id: Zhopped.com_sgGMj_sgGMj.jpg_Zhopped.com_sgGMj_nThtz.jpg 
+candidates: ['remove', 'the', 'people', 'from', 'the', 'background'] 
+references: ['eliminate the lens flare', 'soften the lighting ray', 'remove the light in the right corner, remove the horizontal line, color the sunshine yellow'] 
+
+img_id: Zhopped.com_htT3J_htT3J.jpg_Zhopped.com_htT3J_qsYFn.jpg 
+candidates: ['rotate', 'the', 'image', 'clockwise', 'remove', 'the', 'background'] 
+references: ['crop out bottom of photo', 'crop out all the black area', 'increase the image size'] 
+
+img_id: Zhopped.com_8RkJ3_8RkJ3.jpg_Zhopped.com_8RkJ3_fZwhC.jpg 
+candidates: ['lighten', 'the', 'picture'] 
+references: ['you should change the contrast and the brightness of the image', 'significantly increase the contrast of the entire image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_d2Fpx_d2Fpx.jpg_Zhopped.com_d2Fpx_grF3l.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['create a shadow effect around the girl', 'significantly darken the background', "remove the girl behind the girl in the center, brighten the girl's face, color the table in the left corner and corners of the image black"] 
+
+img_id: Zhopped.com_dYHGc_dYHGc.jpg_Zhopped.com_dYHGc_s7gZk.jpg 
+candidates: ['increase', 'the', 'contrast', 'in', 'the', 'whole', 'image'] 
+references: ['remove the peoples heads that is outlined in yellow', 'remove the heads of the two people nearest to the camera', 'remove two heads from the picture'] 
+
+img_id: Zhopped.com_dDpm3_dDpm3.jpg_Zhopped.com_dDpm3_kYzXC.jpg 
+candidates: ['add', 'a', 'new', 'background', 'around', 'the', 'man'] 
+references: ['change the orientation of the picture clockwise delete this background and replace it with the colorful background', 'flip the girl and replace the background', 'rotate the image to the left, change the background'] 
+
+img_id: Zhopped.com_7QSfy_7QSfy.jpg_Zhopped.com_7QSfy_l0qLG.jpg 
+candidates: ['add', 'a', 'new', 'background', 'around', 'the', 'man'] 
+references: ['add pennywiae the clown behind the bush on the left put a boquet of balloons in pennywises hand', 'add a clown with balloons in the bushes and increase the contrast to the entire image', 'add a clown with balloons in the left corner, decrease the brightness'] 
+
+img_id: Zhopped.com_dYzgs_dYzgs.jpg_Zhopped.com_dYzgs_vhxdV.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['zoom in and change to black and white', 'crop the image and make it black & white', 'add black and white effect, crop the image'] 
+
+img_id: Zhopped.com_bJkY6_bJkY6.jpg_Zhopped.com_bJkY6_3Jyzd.jpg 
+candidates: ['add', 'in', 'background', 'add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['you are going to edit this body onto a black background  you are going to edit fire weapons into these hands', 'replace the background to the black one and add yellow flames to the hands of the boy', 'add a black background to the whole image, add fire in his hands, remove the knife from his hand'] 
+
+img_id: Zhopped.com_9vtGY_9vtGY.jpg_Zhopped.com_9vtGY_hwYQs.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image'] 
+references: ['make more saturated ', 'change the colors of the image', 'make the colors more yellow, crop the image'] 
+
+img_id: Zhopped.com_lGMrj_lGMrj.jpg_Zhopped.com_lGMrj_9LbLB.jpg 
+candidates: ['change', 'background', 'to', 'black', 'and', 'white'] 
+references: ['outline her entire hair and her hairline lighten to about three or shades lighter', 'increase the brightness of the image', "brighten the girl's hair"] 
+
+img_id: Zhopped.com_gSw6s_gSw6s.jpg_Zhopped.com_gSw6s_kx6TL.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'add', 'a', 'new', 'background'] 
+references: ['add highlights in face', 'increase the brightness of the image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_p6KBk_p6KBk.jpg_Zhopped.com_p6KBk_3WNmg.jpg 
+candidates: ['make', 'the', 'background', 'solid', 'white'] 
+references: ['remove the greenish stuff off the stone wall', 'remove the white stains in the bottom of the image', 'increase the image contrast, remove the green spots from the wall'] 
+
+img_id: Zhopped.com_Z2yYy_Z2yYy.jpg_Zhopped.com_Z2yYy_5Vnbn.jpg 
+candidates: ['put', 'a', 'cartoon', 'character', 'on', 'the', 'right', 'side', 'of', 'the', 'picture'] 
+references: ['add a green circle with a violin in it on the cats right paw', 'add a green circle above the cat head', 'add the green ball on cat right paw'] 
+
+img_id: Zhopped.com_vHgdt_vHgdt.jpg_Zhopped.com_vHgdt_gPVdW.jpg 
+candidates: ['add', 'in', 'background', 'add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['change the background to black frame the guy taking the picture record the words im sorry i cant hear you over the sound of how awesome i am ', 'crop out the man with the camera and add him into a different background', 'add a black background to the whole image, crop the image, add the light on camera, add the whole image to the frame, add the text under the frame'] 
+
+img_id: Zhopped.com_pqjvb_pqjvb.jpg_Zhopped.com_pqjvb_dXkNm.jpg 
+candidates: ['make', 'the', 'whole', 'image', 'brighter'] 
+references: ['make the picture brighter', 'slightly rotate the image and significantly increase the brightness of the entire image', 'increase the image brightness, distort the image'] 
+
+img_id: Zhopped.com_bjQMQ_bjQMQ.jpg_Zhopped.com_bjQMQ_3PfJW.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['change background to a plain blue one', 'remove the background and replace with a blue one', 'add a blue background to the whole image'] 
+
+img_id: Zhopped.com_vY7mF_vY7mF.jpg_Zhopped.com_vY7mF_x1Tr1.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['please remove the vent from the babys face', 'remove the tubes from the face of a baby', "remove the pipe and the patch from baby's face"] 
+
+img_id: Zhopped.com_qfRgV_qfRgV.jpg_Zhopped.com_qfRgV_cynk1.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'picture'] 
+references: ['make his face look feminine with full makeup', "change the man's face into the woman's", "change man's eyes, mouth, eyebrows and nose"] 
+
+img_id: Zhopped.com_v8qTB_v8qTB.jpg_Zhopped.com_v8qTB_8thkz.jpg 
+candidates: ['take', 'away', 'the', 'background'] 
+references: ['lighten up the whole image', 'increase the brightness', 'increase the brightness'] 
+
+img_id: Zhopped.com_jXgH5_jXgH5.jpg_Zhopped.com_jXgH5_rK4fx.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['crop this image and make it lighter', 'crop the image and sharpen it', 'crop the area around the girl'] 
+
+img_id: Zhopped.com_8H1xq_8H1xq.jpg_Zhopped.com_8H1xq_nMmln.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image'] 
+references: ['make the whole image lighter', 'increase the brightness', "increase the image brightness, make the woman's arm muscles smaller"] 
+
+img_id: Zhopped.com_fNfLw_fNfLw.jpg_Zhopped.com_fNfLw_rYqBJ.jpg 
+candidates: ['change', 'background', 'to', 'black', 'and', 'white'] 
+references: ['add rose colored background to picture with ombre circle radiating out', 'change the background into the bordeaux one with a white glow on the top', 'change the background'] 
+
+img_id: Zhopped.com_8kYQL_8kYQL.jpg_Zhopped.com_8kYQL_ZfCzs.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['remove balloons from background', 'crop the image', 'crop the balloons and the table'] 
+
+img_id: Zhopped.com_v74w9_v74w9.jpg_Zhopped.com_v74w9_7YJDZ.jpg 
+candidates: ['make', 'the', 'background', 'of', 'the', 'image', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['cut the guys out of the picture and put them in front of two women', 'crop the guys and place them into a different background with two girls', 'crop the image, change the image background'] 
+
+img_id: Zhopped.com_xdXxv_xdXxv.jpg_Zhopped.com_xdXxv_jQDjM.jpg 
+candidates: ['make', 'the', 'image', 'brighter'] 
+references: ['move the lady and child closer to the man and child make all these colors brighter', 'move the woman and the child in her lap a little closer to the rest of the family and change the colors', 'bring the woman with kid closer to the man, remove the pink effect'] 
+
+img_id: Zhopped.com_3BJmP_3BJmP.jpg_Zhopped.com_3BJmP_44FK5.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['remove the writing from the wall change the picture of the cashier counter', 'replace the tv screen, remove the logo and change the colors of the entire image', 'remove yellow from the picture, remove the sign on the wall in the right corner, change the picture on the screen in the left corner'] 
+
+img_id: Zhopped.com_9xz07_9xz07.jpg_Zhopped.com_9xz07_v0JJK.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['make this whole image lighter', 'add more purple color to the image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_bjQMQ_bjQMQ.jpg_Zhopped.com_bjQMQ_98rjv.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['change the entire background to blue zoom in on the girl so that she is larger in the picture', 'crop the image and replace the background with a blue one', 'crop the image, add a blue background to the whole image'] 
+
+img_id: Zhopped.com_5Cn1t_5Cn1t.jpg_Zhopped.com_5Cn1t_dC9nl.jpg 
+candidates: ['brighten', 'the', 'background'] 
+references: ['darken the window brighten the whole picture', 'significantly increase the brightness and decrease the contrast', 'increase the image brightness '] 
+
+img_id: Zhopped.com_2VWdL_2VWdL.jpg_Zhopped.com_2VWdL_n5SsP.jpg 
+candidates: ['lighten', 'the', 'background'] 
+references: ['give him a white cat face', "add white face drawing on the man's face", 'change the man face'] 
+
+img_id: Zhopped.com_kWw94_kWw94.jpg_Zhopped.com_kWw94_5ByZC.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['remove the background and replace it', 'resize the image and change background to the one from anime', 'change the image background'] 
+
+img_id: Zhopped.com_9lfWV_9lfWV.jpg_Zhopped.com_9lfWV_gn6rN.jpg 
+candidates: ['remove', 'the', 'man', 'in', 'the', 'background'] 
+references: ['crop and zoom into the photo ', 'crop the image and add the evil girl instead of the old man behind the guy in the white t-shirt', 'crop the woman in the left corner, remove the third man behind, add the ghost behind the two man'] 
+
+img_id: Zhopped.com_5RdMs_5RdMs.jpg_Zhopped.com_5RdMs_wNKzK.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'image'] 
+references: ['replace the lenses of the glasses with emojis ', 'replace a glass reflection with a smiley face with a hat and crop the white borders', 'add the girl image into glasses frame, crop the white area '] 
+
+img_id: Zhopped.com_wF8PC_wF8PC.jpg_Zhopped.com_wF8PC_mpMgg.jpg 
+candidates: ['remove', 'the', 'text', 'from', 'the', 'photo'] 
+references: ['remove the logo and replace it with the rest of this background ', 'remove the big "louis vuitton" logo', 'remove the text "louis vuitton" and the "lv" sign, add the same area that is behind and above instead of the text and the sign'] 
+
+img_id: Zhopped.com_61n69_61n69.jpg_Zhopped.com_61n69_gb1Kh.jpg 
+candidates: ['remove', 'the', 'reflections', 'in', 'the', 'background'] 
+references: ['darken the shading and colors', 'increase the contrast and resize the image', 'increase the image brightness, add the whole image to the frame'] 
+
+img_id: Zhopped.com_nMFBS_nMFBS.jpg_Zhopped.com_nMFBS_rq1qs.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['remove the background advertising on wall ', 'remove the "julianos catering" logo', 'remove the sign behind man and woman'] 
+
+img_id: Zhopped.com_3Dj4Y_3Dj4Y.jpg_Zhopped.com_3Dj4Y_px3Ns.jpg 
+candidates: ['rotate', 'the', 'image', 'clockwise', 'remove', 'the', 'background'] 
+references: ['crop and zoom into the photo', 'crop the image', 'crop the image'] 
+
+img_id: Zhopped.com_9sh14_9sh14.jpg_Zhopped.com_9sh14_bTgCS.jpg 
+candidates: ['make', 'the', 'background', 'a', 'little', 'bit'] 
+references: ['raise the vibrance of the colors', 'increase the brightness', 'increase the image contrast'] 
+
+img_id: Zhopped.com_5Cn1t_5Cn1t.jpg_Zhopped.com_5Cn1t_ZXyB4.jpg 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['make colors brighter so the image isnt so dark', 'significantly increase the brightness and decrease the contrast', 'increase the image brightess'] 
+
+img_id: Zhopped.com_qZlYk_qZlYk.jpg_Zhopped.com_qZlYk_vML4s.jpg 
+candidates: ['make', 'the', 'background', 'black', 'and', 'white'] 
+references: ['add color to image', 'color the black & white image', 'remove the black and white effect, crop the white corners'] 
+
+img_id: Zhopped.com_p6FFy_p6FFy.jpg_Zhopped.com_p6FFy_58JdV.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['filter image replace background with filtered pixels', 'make the background pixelated', 'blur the woman face, blur the background'] 
+
+img_id: Zhopped.com_fQmws_fQmws.jpg_Zhopped.com_fQmws_jtYjL.jpg 
+candidates: ['make', 'the', 'whole', 'image', 'brighter'] 
+references: ['add lightning to the background make the water reflect the lightning', 'change the weather on the image from clear day to stormy day with thunder', 'decrease the image brightness, change the clouds, add the thunder in the clouds'] 
+
+img_id: Zhopped.com_vl4Zt_vl4Zt.jpg_Zhopped.com_vl4Zt_lQt7z.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['add the dreamworks vresion of puss in boots on his back', 'add the puss in boots onto the horse back', 'increase the image contrast, add the cat on the pony'] 
+
+img_id: Zhopped.com_fsX8L_fsX8L.jpg_Zhopped.com_fsX8L_35Mt9.jpg 
+candidates: ['color', 'in', 'the', 'background'] 
+references: ['make this moon a lot larger', 'make the moon a lot larger', 'make the moon bigger'] 
+
+img_id: Zhopped.com_4p4rP_4p4rP.jpg_Zhopped.com_4p4rP_jdQ6h.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['cut out the background replace the background with a ferrari car', 'crop the image and change the background', 'crop the image, change the image background'] 
+
+img_id: Zhopped.com_57lm4_57lm4.jpg_Zhopped.com_57lm4_2VPkB.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['remove this entire background from behind this girl ', 'crop the image and remove the background', "crop the image, add the light in girl's eyes, add a white backgroun to the whole image"] 
+
+img_id: Zhopped.com_dhVJl_dhVJl.jpg_Zhopped.com_dhVJl_ZDjW4.jpg 
+candidates: ['change', 'background', 'to', 'black'] 
+references: ['make shoulders appear lower', "make the girl's shoulders a lot smaller", 'reposition the arms down'] 
+
+img_id: Zhopped.com_4pPkV_4pPkV.jpg_Zhopped.com_4pPkV_w9xk2.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['lets make the background red', 'change the background to the red one', 'add a red background to the whole image'] 
+
+img_id: Zhopped.com_3jKFH_3jKFH.jpg_Zhopped.com_3jKFH_6cWCs.jpg 
+candidates: ['make', 'the', 'background', 'solid', 'white'] 
+references: ['remove the background add a fall foliage background', 'change the background to the riverside', 'change the image background, increase the image contrast'] 
+
+img_id: Zhopped.com_dLltq_dLltq.jpg_Zhopped.com_dLltq_6tmB1.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['change the color of glasses to black change the color of his shirt to green', 'change the purple hood to black, increase the contrast and remove reflection from the glasses', 'darken the man in the center, color the sunglasses and the hat black'] 
+
+img_id: Zhopped.com_kWw94_kWw94.jpg_Zhopped.com_kWw94_8g8YV.jpg 
+candidates: ['rotate', 'the', 'image', 'clockwise'] 
+references: ['change background to white', 'remove the black background and remove the hair that covers girls face', "add a white background to the whole image, remove stray hairs from girl's face"] 
+
+img_id: Zhopped.com_cpg0v_cpg0v.jpg_Zhopped.com_cpg0v_7ygJT.jpg 
+candidates: ['make', 'the', 'image', 'brighter'] 
+references: ['make logo smaller add american flag in the background make logo brighter', 'change the colors of the logo and put it into the left bottom corner of the us flag', 'change the image background'] 
+
+img_id: Zhopped.com_7jz8R_7jz8R.jpg_Zhopped.com_7jz8R_q4wL6.jpg 
+candidates: ['remove', 'the', 'people', 'from', 'the', 'photo'] 
+references: ['increase the contrast make the photo black and white', 'remove the light from the top left corner and make the entire image black & white', 'increase the image sharpness, add black and white effect'] 
+
+img_id: Zhopped.com_4Y7C1_4Y7C1.jpg_Zhopped.com_4Y7C1_33sSh.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['make this whole image lighter add a shark coming towards the swimmer', 'add bubbles, shark and coins', 'increase the image brightess, add the shark in the left side'] 
+
+img_id: Zhopped.com_nK0j9_nK0j9.jpg_Zhopped.com_nK0j9_8TcFG.jpg 
+candidates: ['the', 'background', 'of', 'the', 'image', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['make this whole image clearer and brighter', 'increase the contrast', 'increase the image contrast'] 
+
+img_id: Zhopped.com_7hX9V_7hX9V.jpg_Zhopped.com_7hX9V_vZ5xk.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['clear up all the defects in this photo make his face much lighter', 'crop the yellow border and remove stains', 'remove the spots on the image'] 
+
+img_id: Zhopped.com_bzrC6_bzrC6.jpg_Zhopped.com_bzrC6_gbppk.jpg 
+candidates: ['add', 'text', '<UNK>', '<UNK>', '<UNK>', '<UNK>', '<UNK>', '<UNK>'] 
+references: ['make this gold much brighter', 'increase the contrast', 'make the image colors more yellow'] 
+
+img_id: Zhopped.com_krjkv_krjkv.jpg_Zhopped.com_krjkv_m7lVK.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['make this whole image black and white', 'make the whole image black & white', 'add black and white effect'] 
+
+img_id: Zhopped.com_7sPnv_7sPnv.jpg_Zhopped.com_7sPnv_gd0BT.jpg 
+candidates: ['make', 'the', 'image', 'brighter'] 
+references: ['make this whole image a lot lighter', 'increase the brightness', 'increase the image sharpness'] 
+
+img_id: Zhopped.com_3jKFH_3jKFH.jpg_Zhopped.com_3jKFH_6cWCs.jpg 
+candidates: ['make', 'the', 'background', 'solid', 'white'] 
+references: ['change background to a fall scene with a creek ', 'change the background to the riverside', 'change the image background'] 
+
+img_id: Zhopped.com_6jb7K_6jb7K.jpg_Zhopped.com_6jb7K_gsGbK.jpg 
+candidates: ['make', 'the', 'image', 'brighter'] 
+references: ['lighten picture', 'increase the brightness', 'change the sky color to purple'] 
+
+img_id: Zhopped.com_mmTPd_mmTPd.jpg_Zhopped.com_mmTPd_7NSTm.jpg 
+candidates: ['remove', 'the', 'text', 'from', 'the', 'photo'] 
+references: ['lighten picture', 'increase the brightness', 'increase the image brightness'] 
+
+img_id: Zhopped.com_5DD0Z_5DD0Z.jpg_Zhopped.com_5DD0Z_hM3W9.jpg 
+candidates: ['lighten', 'up', 'the', 'whole', 'image'] 
+references: ['lighten picture', 'increase the brightness', 'increase the image contrast'] 
+
+img_id: Zhopped.com_bPrgq_bPrgq.jpg_Zhopped.com_bPrgq_98Rt8.jpg 
+candidates: ['lighten', 'up', 'the', 'whole', 'image'] 
+references: ['remove light darken up the background', 'crop the image and increase the contrast', 'crop the image, decrease the image brightness'] 
+
+img_id: Zhopped.com_9sh14_9sh14.jpg_Zhopped.com_9sh14_bTgCS.jpg 
+candidates: ['make', 'the', 'background', 'a', 'little', 'bit'] 
+references: ['make colors more vibrant in the entire picture', 'increase the brightness', 'increase the image contrast'] 
+
+img_id: Zhopped.com_7dbKq_7dbKq.jpg_Zhopped.com_7dbKq_53Pg6.jpg 
+candidates: ['<UNK>', 'the', 'image', 'background'] 
+references: ['reduce the pixeling in the photo', 'resize the image', 'make the image smaller'] 
+
+img_id: Zhopped.com_bjQMQ_bjQMQ.jpg_Zhopped.com_bjQMQ_3PfJW.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['i would remove all of this background behind her head and make it blue', 'replace the background with a blue one', 'add a blue background to the whole image'] 
+
+img_id: Zhopped.com_cdjkx_cdjkx.jpg_Zhopped.com_cdjkx_9yJxf.jpg 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['add a orange hue to her color', 'color the black & white image', 'add a yellow light on image'] 
+
+img_id: Zhopped.com_9KyMF_9KyMF.jpg_Zhopped.com_9KyMF_dRLxQ.jpg 
+candidates: ['add', 'a', '<UNK>', 'hat', 'and', 'the', 'dog'] 
+references: ['replace background', 'replace the background', 'remove the purple area, change the image backround'] 
+
+img_id: Zhopped.com_kgs66_kgs66.jpg_Zhopped.com_kgs66_nbNC1.jpg 
+candidates: ['change', 'background', 'to', 'black', 'and', 'white'] 
+references: ['the background is replaced with colorful swirls', 'resize the image and replace the background', 'crop the image, change the image background'] 
+
+img_id: Zhopped.com_ZmrNH_ZmrNH.jpg_Zhopped.com_ZmrNH_gcr4j.jpg 
+candidates: ['remove', 'the', 'text', 'from', 'the', 'photo'] 
+references: ['change the license plate to out run', 'change the word "sys" to "out", "151" to "run"  and "3" to "6', 'change the text "sys" to "out", change the text "151" to "run'] 
+
+img_id: Zhopped.com_4sWh3_4sWh3.jpg_Zhopped.com_4sWh3_rQg0q.jpg 
+candidates: ['lighten', 'the', 'picture'] 
+references: ['filter photo', 'increase the brightness and contrast of the image', 'make the colors whiter'] 
+
+img_id: Zhopped.com_hR75V_hR75V.jpg_Zhopped.com_hR75V_vvtg4.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['make the whole picture brighter', 'increase the brightness of the image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_vB9qy_vB9qy.jpg_Zhopped.com_vB9qy_7YCcC.jpg 
+candidates: ['lighten', 'the', 'picture'] 
+references: ['brighten up the picture just a bit', 'increase the contrast of the image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_3pXnz_3pXnz.jpg_Zhopped.com_3pXnz_bZ7BY.jpg 
+candidates: ['rotate', 'the', 'image', '90', 'degrees', 'remove', 'the', 'background', 'and', 'replace', 'it', 'with', 'a', 'colorful', 'building'] 
+references: ['change the color of the bag to purple', 'change the white color of the bag to purple', 'color the white bag area with purple'] 
+
+img_id: Zhopped.com_jT9KX_jT9KX.jpg_Zhopped.com_jT9KX_gXzgc.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['take out the brightness in all the dogs eyes ', 'remove red-eye', "remove dog's eye glare"] 
+
+img_id: Zhopped.com_5RdMs_5RdMs.jpg_Zhopped.com_5RdMs_wNKzK.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'image'] 
+references: ['add cartoon face within the glasses of the lady', 'replace a glass reflection with a smiley face with a hat and crop the white borders', 'add the girl image into glasses frame, crop the white area '] 
+
+img_id: Zhopped.com_8f0WZ_8f0WZ.jpg_Zhopped.com_8f0WZ_cytKy.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'forest', ''] 
+references: ['change the background to solid mustard yellow', 'add more yellowness to the image', 'make the white background yellow'] 
+
+img_id: Zhopped.com_bZdw7_bZdw7.jpg_Zhopped.com_bZdw7_rKNF3.jpg 
+candidates: ['crop', 'the', 'image', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['remove background from around this man', 'crop the image and increase the brightness', 'crop the image, add a black background around the boy with the guitar'] 
+
+img_id: Zhopped.com_lh3Xk_lh3Xk.jpg_Zhopped.com_lh3Xk_hCs93.jpg 
+candidates: ['make', 'the', 'background', 'a', 'little', 'bit'] 
+references: ['sharpen the look of this mans face', 'slightly rotate the image and increase the contrast', 'increase the image contrast, distort the image'] 
+
+img_id: Zhopped.com_dS4Nv_dS4Nv.jpg_Zhopped.com_dS4Nv_t7R3m.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'entire', 'picture'] 
+references: ['remove the basket replace the quilted background with a star background make the blanket darker make the baby lighter', 'rotate the baby and replace the background', 'distort an image, add the effect, change the background'] 
+
+img_id: Zhopped.com_wTpLd_wTpLd.jpg_Zhopped.com_wTpLd_vGpWQ.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['crop the image around the lady and her dogs insert the cropped image in a snowglobe', 'crop the woman and the dogs and place them into the snow ball', 'crop the image, add snow to the image, add the image to the circle, change the image background'] 
+
+img_id: Zhopped.com_4YqRG_4YqRG.jpg_Zhopped.com_4YqRG_6RX3f.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['lighten the picture', 'blur the image and add more green color', 'increase the image brightness, blur the image'] 
+
+img_id: Zhopped.com_sTsbB_sTsbB.jpg_Zhopped.com_sTsbB_7djDz.jpg 
+candidates: ['crop', 'out', 'the', 'background', 'and', 'add', 'a', 'new', 'background'] 
+references: ['remove the glare in his glasses', 'remove glare from the glasses', "remove the reflection in man's glasses"] 
+
+img_id: Zhopped.com_7CQjr_7CQjr.jpg_Zhopped.com_7CQjr_gCBHj.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image'] 
+references: ['make the whole picture slightly blurrier', 'darken the image', 'decrease the image sharpness'] 
+
+img_id: Zhopped.com_vl4Zt_vl4Zt.jpg_Zhopped.com_vl4Zt_lQt7z.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['crop puss and boots standing on the back ', 'add the puss in boots onto the horse back', 'increase the image contrast, add the cat on the pony'] 
+
+img_id: Zhopped.com_mWd4w_mWd4w.jpg_Zhopped.com_mWd4w_lfZth.jpg 
+candidates: ['add', 'a', '<UNK>', 'hat'] 
+references: ['add a lightening bolt into this picture', 'add the lightning over the image', 'add a thunder on image'] 
+
+img_id: Zhopped.com_wlD3w_wlD3w.jpg_Zhopped.com_wlD3w_qvDMV.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['turn up the contrast ', 'increase the brightness of the image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_40bTh_40bTh.jpg_Zhopped.com_40bTh_vdKxr.jpg 
+candidates: ['make', 'the', 'background', 'solid', 'white'] 
+references: ['turn up the fog of the image ', 'add a blurry filter to the entire image', 'decrease the image contrast'] 
+
+img_id: Zhopped.com_qcYkg_qcYkg.jpg_Zhopped.com_qcYkg_pfyGl.jpg 
+candidates: ['change', 'the', 'background', 'of', 'the', 'image', 'to', 'a', 'black', 'and', 'white'] 
+references: ['add a purple tint to this image', 'increase the colors of the image', 'remove stray hair, remove dark circles under the eyes, resize the stomach'] 
+
+img_id: Zhopped.com_cdjkx_cdjkx.jpg_Zhopped.com_cdjkx_tcD72.jpg 
+candidates: ['make', 'the', 'background', 'solid', 'white'] 
+references: ['brighten contrast of entire photo', 'increase the brightness of the image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_b6Nl7_b6Nl7.jpg_Zhopped.com_b6Nl7_hGz6Z.jpg 
+candidates: ['rotate', 'the', 'image', 'counter', 'clockwise', 'remove', 'the', 'background'] 
+references: ['change brightness to match color of baby and blanket', 'increase the brightness of the image', 'increase the image brightness'] 
+
+img_id: Zhopped.com_ggFVB_ggFVB.jpg_Zhopped.com_ggFVB_pj3Dx.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['remove the people in the background', 'remove the people in the background behind the red car and increase image brightness', 'remove men behind the car, make the entire image colors brighter'] 
+
+img_id: Zhopped.com_9dDxN_9dDxN.jpg_Zhopped.com_9dDxN_q3NRb.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['increase the exposure', 'increase the brightness of the image', 'increase the image brightness'] 
+
+img_id: Zhopped.com_j9Tkh_j9Tkh.jpg_Zhopped.com_j9Tkh_lzSY6.jpg 
+candidates: ['make', 'the', 'background', 'of', 'the', 'picture', 'a', 'little', 'bit'] 
+references: ['add clarity to this entire picture', 'increase the contrast of the image', 'decrease the image brightness'] 
+
+img_id: Zhopped.com_8RkJ3_8RkJ3.jpg_Zhopped.com_8RkJ3_bvWvk.jpg 
+candidates: ['brighten', 'the', 'image'] 
+references: ['take out the glare and add more brightness to the body', 'significantly increase the contrast of an image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_smlWP_smlWP.jpg_Zhopped.com_smlWP_psZ03.jpg 
+candidates: ['remove', 'the', 'background', 'of', 'the', 'image'] 
+references: ['increase the contrast of the whole picture', 'increase the contrast of the image and make the boys more smiling', 'increase the image contrast, make the boys smile bigger'] 
+
+img_id: Zhopped.com_4YpSt_4YpSt.jpg_Zhopped.com_4YpSt_5HclW.jpg 
+candidates: ['lighten', 'the', 'picture'] 
+references: ['change the background of this image to be a red sunset add a yellow tint to the whole picture', 'add red sunset background', 'change the sky background, increase the image contrast'] 
+
+img_id: Zhopped.com_n7qbz_n7qbz.jpg_Zhopped.com_n7qbz_wmfwS.jpg 
+candidates: ['remove', 'the', 'background', 'of', 'the', 'photo'] 
+references: ['remove the man entirely from this picture replace the background with a purple background', 'remove the man from the image, crop the image and replace a background', 'remove the man, add a black background with purple light'] 
+
+img_id: Zhopped.com_j6r9h_j6r9h.jpg_Zhopped.com_j6r9h_rRCmG.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['this black line behind the baby needs to be removed', 'remove the black cable and white socket behind the girl', 'remove the cable and white box in the left side of the picture'] 
+
+img_id: Zhopped.com_vyJBX_vyJBX.jpg_Zhopped.com_vyJBX_fJXYs.jpg 
+candidates: ['lighten', 'the', 'whole', 'image'] 
+references: ['zoom in this image', 'zoom in', 'increase the image contrast, crop the image'] 
+
+img_id: Zhopped.com_7BGfJ_7BGfJ.jpg_Zhopped.com_7BGfJ_32qJJ.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['increase brightness in image', 'increase the brightness of the image', 'increase the image brightness'] 
+
+img_id: Zhopped.com_7pmcv_7pmcv.jpg_Zhopped.com_7pmcv_q9jPL.jpg 
+candidates: ['make', 'the', 'background', 'black', 'and', 'white'] 
+references: ['lighten the tone of this girls skin', "lighten the girl's skin", "make the girl's skin tone brighter"] 
+
+img_id: Zhopped.com_pKyFN_pKyFN.jpg_Zhopped.com_pKyFN_gszMm.jpg 
+candidates: ['make', 'the', 'image', 'brighter'] 
+references: ['remove this guy replace empty space with ocean and iron fence', 'remove the guy', 'remove the boy from the photo'] 
+
+img_id: Zhopped.com_j29Zd_j29Zd.jpg_Zhopped.com_j29Zd_7PmYY.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['make the background solid bright pink', 'replace the background with a pink one', 'add a pink bacground to the whole image'] 
+
+img_id: Zhopped.com_gzvpY_gzvpY.jpg_Zhopped.com_gzvpY_dFRGf.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['crop the picture around this person', 'resize the image and crop it', 'crop the image, make the image bigger, blur the image'] 
+
+img_id: Zhopped.com_7Qr6K_7Qr6K.jpg_Zhopped.com_7Qr6K_hy203.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'background', 'of', 'a', 'picture'] 
+references: ['crop the image here and here make the image a lot larger brighten all the colors', 'crop the image and increase the brightness', 'crop the image'] 
+
+img_id: Zhopped.com_3hmMR_3hmMR.jpg_Zhopped.com_3hmMR_w0lRL.jpg 
+candidates: ['change', 'the', 'background', 'of', 'the', 'picture', 'to', 'a', 'black', 'and', 'white'] 
+references: ['darken picture', 'increase the contrast of the image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_bjQMQ_bjQMQ.jpg_Zhopped.com_bjQMQ_3PfJW.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['change background to blue', 'replace the background with the blue one', 'add a blue background to the whole image'] 
+
+img_id: Zhopped.com_7S1PH_7S1PH.jpg_Zhopped.com_7S1PH_kfDgd.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'photo', 'add', 'a', 'black', 'background'] 
+references: ['remove glare', 'remove the window glare from the left side of the image', 'remove the light in the left corner of the image'] 
+
+img_id: Zhopped.com_t0kc2_t0kc2.jpg_Zhopped.com_t0kc2_nCqRP.jpg 
+candidates: ['make', 'the', 'background', 'solid', 'white'] 
+references: ['blur out the background so you can only see the man in the red shirt', 'blur the background', 'blur the background '] 
+
+img_id: Zhopped.com_51C4N_51C4N.jpg_Zhopped.com_51C4N_wLl3V.jpg 
+candidates: ['remove', 'the', 'white', 'background'] 
+references: ['disregard this instructions  change background ', 'remove the black line behind the device and change the colors', 'remove the horizontal line, make the background white'] 
+
+img_id: Zhopped.com_sx2kh_sx2kh.jpg_Zhopped.com_sx2kh_vdcsF.jpg 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['filter photo', 'increase the contrast of the image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_gd07h_gd07h.jpg_Zhopped.com_gd07h_9pBbL.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['crop this photo like so add a blue image filter to this', 'crop the image and increase the brightness', 'crop the image, add the effect'] 
+
+img_id: Zhopped.com_kWw94_kWw94.jpg_Zhopped.com_kWw94_8g8YV.jpg 
+candidates: ['rotate', 'the', 'image', 'clockwise'] 
+references: ['remove the background from this picture', 'remove the black background and remove the hair that covers girls face', 'add a white area to the whole image, remove stray hair '] 
+
+img_id: Zhopped.com_3hmMR_3hmMR.jpg_Zhopped.com_3hmMR_w0lRL.jpg 
+candidates: ['change', 'the', 'background', 'of', 'the', 'picture', 'to', 'a', 'black', 'and', 'white'] 
+references: ['slightly desaturate this image', 'increase the contrast of the image', 'increase the image color'] 
+
+img_id: Zhopped.com_dZfZF_dZfZF.jpg_Zhopped.com_dZfZF_vd1Dx.jpg 
+candidates: ['add', 'the', 'background', 'of', 'the', 'picture'] 
+references: ['crop this man out of this photo place this man on a picture of a living room', 'change the background from wall to luxury apartment', 'change the image background'] 
+
+img_id: Zhopped.com_kbb6d_kbb6d.jpg_Zhopped.com_kbb6d_8wm88.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['crop the photos so it fits into this sqaure darken the colors of the photo', 'crop the image', 'crop the image'] 
+
+img_id: Zhopped.com_5Cn1t_5Cn1t.jpg_Zhopped.com_5Cn1t_ZXyB4.jpg 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['remove the sun glare and brighten up the entire photo', 'significantly increase the brightness of the entire image and decrease the contrast', 'increase the image brightness'] 
+
+img_id: Zhopped.com_fYrJn_fYrJn.jpg_Zhopped.com_fYrJn_mhDhY.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'person'] 
+references: ['change the photo from landscape to portrait', 'crop the image', 'crop the image, increase the image contrast'] 
+
+img_id: Zhopped.com_5737n_5737n.jpg_Zhopped.com_5737n_jH9rP.jpg 
+candidates: ['add', 'in', 'the', 'background'] 
+references: ['take out the purple tint', 'change the colors of the image', 'remove the pink effect'] 
+
+img_id: Zhopped.com_hR75V_hR75V.jpg_Zhopped.com_hR75V_dWW88.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['bump up the brightness of the image whiten teeth', 'increase the brightness of the image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_kWw94_kWw94.jpg_Zhopped.com_kWw94_8g8YV.jpg 
+candidates: ['rotate', 'the', 'image', 'clockwise'] 
+references: ['cut the image of the girl paste on to a white background', 'remove the black background and remove the hair that covers girls face', 'remove stray hair, add a white background to the whole image'] 
+
+img_id: Zhopped.com_nMgqq_nMgqq.jpg_Zhopped.com_nMgqq_rW4xG.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['change the hair color to black add red color to the bow', 'change the hair color from brown to black and change the ribbon from white-pink to red', "change the hair color to black, change the bow color to red, darken the girl's shirt"] 
+
+img_id: Zhopped.com_5737n_5737n.jpg_Zhopped.com_5737n_sWx19.jpg 
+candidates: ['add', 'in', 'background'] 
+references: ['remove the pink tone', 'decrease red color in the picture', 'remove the effect'] 
+
+img_id: Zhopped.com_bR0vB_bR0vB.jpg_Zhopped.com_bR0vB_m5m3X.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'photo'] 
+references: ['turn this image 90 degrees clockwise erase the black part add the fisheye effect', 'crop out all the black area, rotate the image and blur the background ', 'rotate the image, blur the image background'] 
+
+img_id: Zhopped.com_dVMz1_dVMz1.jpg_Zhopped.com_dVMz1_5Gp2F.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['change background to beach', 'replace the background', 'change the image background'] 
+
+img_id: Zhopped.com_5Kk7S_5Kk7S.jpg_Zhopped.com_5Kk7S_9QmkV.jpg 
+candidates: ['replace', 'the', 'background', 'with', 'a', 'zombie', 'with', 'the', 'background'] 
+references: ['try to bring up the level of the photo to make the whole thing brighter', 'crop the image and increase the brightness', 'crop the image, increase the image contrast'] 
+
+img_id: Zhopped.com_6yqg9_6yqg9.jpg_Zhopped.com_6yqg9_jFHF1.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['add a cat face to the fish put a beach background', 'replace the fish head with the cat head', 'change the image background, change the fish face to cat face'] 
+
+img_id: Zhopped.com_cFGYR_cFGYR.jpg_Zhopped.com_cFGYR_8xvbG.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'add', 'a', 'black', 'background'] 
+references: ['give the image a blue tint flip the image', 'flip the girl and add more blue colors with a light beam', 'rotate the image, add a blue light in the left corner'] 
+
+img_id: Zhopped.com_lh3Xk_lh3Xk.jpg_Zhopped.com_lh3Xk_3hvZB.jpg 
+candidates: ['make', 'the', 'background', 'black', 'and', 'white'] 
+references: ['make background white with blue borders', 'rotate the image, remove the background, add the blue border and increase the contrast', 'add a white background to the whole image, distort the image, increase the image contrast'] 
+
+img_id: Zhopped.com_wlD3w_wlD3w.jpg_Zhopped.com_wlD3w_qvDMV.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['brighten the entire image ', 'increase the brightness of the entire image', 'increase the image sharpness'] 
+
+img_id: Zhopped.com_vNmxP_vNmxP.jpg_Zhopped.com_vNmxP_cvsJn.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'image'] 
+references: ['put this baby onto a poster in the middle of a city ', 'put a whole image into the city billboard and remove the "1-month" logo', 'remove the "1 month" sign in the left side of the picture, add the whole picture to a billboard'] 
+
+img_id: Zhopped.com_k6p2z_k6p2z.jpg_Zhopped.com_k6p2z_lxTzV.jpg 
+candidates: ['add', 'a', 'leaf', 'in', 'the', 'background'] 
+references: ['adjust the contrast of the photo', 'increase the contrast of the entire image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_pLhyH_pLhyH.jpg_Zhopped.com_pLhyH_9qkBf.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'entire', 'picture'] 
+references: ['put a filter over the whole image', 'increase the red color', 'add the effect'] 
+
+img_id: Zhopped.com_nK0j9_nK0j9.jpg_Zhopped.com_nK0j9_pcZD7.jpg 
+candidates: ['the', 'background', 'of', 'the', 'image', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['brighten entire picture ', 'increase the contrast of the entire image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_gd07h_gd07h.jpg_Zhopped.com_gd07h_6L1ps.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['crop photo', 'rotate and darken the whole image', 'crop the image, make the image more blue'] 
+
+img_id: Zhopped.com_khPtl_khPtl.jpg_Zhopped.com_khPtl_mtbXG.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['lighten one shade lighter the whole picture', 'increase the brightness of the entire image and make words "www.maxim.com" a lot bigger', 'increase the image brightness'] 
+
+img_id: Zhopped.com_gt0X1_gt0X1.jpg_Zhopped.com_gt0X1_ldDVV.jpg 
+candidates: ['add', 'in', 'the', 'background'] 
+references: ['add a flame to this tiki torch ', 'add a yellow flame onto tiki torch', 'add a yellow flame in the right side of the picture'] 
+
+img_id: Zhopped.com_mn77X_mn77X.jpg_Zhopped.com_mn77X_9JKXN.jpg 
+candidates: ['add', 'in', 'the', 'background'] 
+references: ['replace background shorten picture', 'resize the image and replace the background with a new fantasy meadow background', 'change the image background'] 
+
+img_id: Zhopped.com_bJ7Dn_bJ7Dn.jpg_Zhopped.com_bJ7Dn_6mX3P.jpg 
+candidates: ['change', 'background'] 
+references: ['add hats change background', 'crop the boys, add western cart background and add two hats', 'crop the image, add the image background, add hats on heads of boys, change the design of bows'] 
+
+img_id: Zhopped.com_fYrJn_fYrJn.jpg_Zhopped.com_fYrJn_mhDhY.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'person'] 
+references: ['make longer  zoom in', 'crop the image', 'crop the image, increase the image contrast'] 
+
+img_id: Zhopped.com_cpg0v_cpg0v.jpg_Zhopped.com_cpg0v_ZcSwZ.jpg 
+candidates: ['make', 'the', 'image', 'brighter'] 
+references: ['make star red and white add american flag in the background', 'change logo colors and add the us flag into the middle of the logo', 'increase the image contrast, change the color of the left sides of star to red, add the flag above the sign'] 
+
+img_id: Zhopped.com_vyJBX_vyJBX.jpg_Zhopped.com_vyJBX_ftlP0.jpg 
+candidates: ['remove', 'the', 'people', 'from', 'the', 'background'] 
+references: ['zoom in  make picture shorter', 'crop the image', 'crop the image, increase the image contrast'] 
+
+img_id: Zhopped.com_61n69_61n69.jpg_Zhopped.com_61n69_gb1Kh.jpg 
+candidates: ['remove', 'the', 'reflections', 'in', 'the', 'background'] 
+references: ['make the image more colorful and a little bit smaller', 'resize and increase the contrast of the entire image', 'increase the image brightness, add picture to the frame'] 
+
+img_id: Zhopped.com_q2DNs_q2DNs.jpg_Zhopped.com_q2DNs_jTMf6.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['remove man from picture  add man to picture of girls at the beach ', 'resize the image and add a different background with four girls on the beach', 'change the image background'] 
+
+img_id: Zhopped.com_vj9Kf_vj9Kf.jpg_Zhopped.com_vj9Kf_3xhb1.jpg 
+candidates: ['add', 'a', '<UNK>', 'hat'] 
+references: ['increase brightness', 'increase the brightness of the entire image', 'increase the image brightness'] 
+
+img_id: Zhopped.com_gt0X1_gt0X1.jpg_Zhopped.com_gt0X1_d41jb.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'entire', 'picture'] 
+references: ['add a wide blue flame to this tiki torch ', 'add a blue flame onto tiki torch', 'add a blue flame instead of normal flame in the right side of the picture, make the entire image brighter'] 
+
+img_id: Zhopped.com_7CQjr_7CQjr.jpg_Zhopped.com_7CQjr_gn1wQ.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['apply radial blur', 'darken the entire image', 'blur the image'] 
+
+img_id: Zhopped.com_42HQG_42HQG.jpg_Zhopped.com_42HQG_j5PZl.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['compress the image vertically', 'resize the entire image', 'make the image height smaller'] 
+
+img_id: Zhopped.com_40bTh_40bTh.jpg_Zhopped.com_40bTh_vdKxr.jpg 
+candidates: ['make', 'the', 'background', 'solid', 'white'] 
+references: ['add a filter to this entire photo', 'add a blurry filter to the entire image', 'blur the image'] 
+
+img_id: Zhopped.com_9dDxN_9dDxN.jpg_Zhopped.com_9dDxN_q3NRb.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['make image clearer and brighter', 'increase the brightness of the entire image', 'increase the image brightness'] 
+
+img_id: Zhopped.com_51pKg_51pKg.jpg_Zhopped.com_51pKg_9BNQp.jpg 
+candidates: ['brighten', 'the', 'image'] 
+references: ['brghten the whole image', 'increase the contrast of the entire image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_968HD_968HD.jpg_Zhopped.com_968HD_339CC.jpg 
+candidates: ['lighten', 'the', 'picture'] 
+references: ['make the entire picture slightly brighter', 'increase the brightness of the entire image', 'increase the image brightness'] 
+
+img_id: Zhopped.com_wBdHB_wBdHB.jpg_Zhopped.com_wBdHB_mlS9f.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'image'] 
+references: ['crop and rotate this poster', 'crop and distort the image', 'crop the image, distort the image'] 
+
+img_id: Zhopped.com_jBN3n_jBN3n.jpg_Zhopped.com_jBN3n_x0XJ0.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['lighten the entire picture', 'increase the brightness of the entire image', 'increase the image brightness'] 
+
+img_id: Zhopped.com_9fyNc_9fyNc.jpg_Zhopped.com_9fyNc_kZrHK.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['remove the black background', 'remove the background', 'add a white background around the baby'] 
+
+img_id: Zhopped.com_wTpLd_wTpLd.jpg_Zhopped.com_wTpLd_vGpWQ.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['put woman and dogs in snowglobe snowglobe says merry christmas', 'crop the woman and the dogs and place them into the snow ball', 'crop the image, add the snow on the image, add the image to the circle, change the image background'] 
+
+img_id: Zhopped.com_bJ7Dn_bJ7Dn.jpg_Zhopped.com_bJ7Dn_cTYTF.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'background', 'of', 'a', 'picture', 'of', 'the', '<UNK>'] 
+references: ['crop boys from photo add dr who and phone booth behind boys', 'crop the boys and place them onto the different background in front of the man in black tuxedo', 'change the image background'] 
+
+img_id: Zhopped.com_sdWJ2_sdWJ2.jpg_Zhopped.com_sdWJ2_pkKLf.jpg 
+candidates: ['put', 'a', 'cartoon', 'character', 'on', 'the', 'right', 'side', 'of', 'the', 'picture'] 
+references: ['isolate the baby so its on a flat white background add a first thanksgiving frame here', 'crop out the baby and fit into the thanksgiving frame', 'change the image background'] 
+
+img_id: Zhopped.com_cH9gf_cH9gf.jpg_Zhopped.com_cH9gf_mrktD.jpg 
+candidates: ['add', 'in', 'the', 'background'] 
+references: ['isolate the icing from the rest of the photo and move to a separate layer change the rest of the photo to grayscale', 'make the entire image black and white except blue ice cream colors', 'add the black and white effect to the whole image instead of blue cream '] 
+
+img_id: Zhopped.com_5VtBX_5VtBX.jpg_Zhopped.com_5VtBX_9LWFv.jpg 
+candidates: ['add', 'in', 'background', 'add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['increase brightness and saturation on the entire image', 'crop the image and increase the brightness & contrast', 'crop the image, increase the image contrast'] 
+
+img_id: Zhopped.com_hfPrC_hfPrC.jpg_Zhopped.com_hfPrC_8pXz8.jpg 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['change this background', 'paint the background', 'remove the shoes, change the image background'] 
+
+img_id: Zhopped.com_j9Tkh_j9Tkh.jpg_Zhopped.com_j9Tkh_hWh9P.jpg 
+candidates: ['make', 'the', 'background', 'black', 'and', 'white'] 
+references: ['remove this sunlight', 'increase the contrast of the entire image and add border', 'decrease the image brightness'] 
+
+img_id: Zhopped.com_rWfTb_rWfTb.jpg_Zhopped.com_rWfTb_x2bGG.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['remove haze from picture', 'increase the contrast and change the word "drive" into "dive', 'change the text "drive" to "dive", increase the image brightness'] 
+
+img_id: Zhopped.com_dL8Fj_dL8Fj.jpg_Zhopped.com_dL8Fj_t27Kh.jpg 
+candidates: ['add', 'the', 'background', 'add', 'a', 'new', 'background'] 
+references: ['past picture of arnold schwarzeneggers face', 'insert white face over bunny face', 'change the rabbit face with the man face'] 
+
+img_id: Zhopped.com_wDCfd_wDCfd.jpg_Zhopped.com_wDCfd_3WtCb.jpg 
+candidates: ['<UNK>', 'the', 'background', 'around', 'the', 'man', 'and', 'put', 'a', 'plain', 'blue', 'background'] 
+references: ['add silhouette of flying birds', 'increase the brightness and add a flock of birds', 'increase the image brightness, add birds in the right of the image'] 
+
+img_id: Zhopped.com_dZFlh_dZFlh.jpg_Zhopped.com_dZFlh_jh7cy.jpg 
+candidates: ['lighten', 'up', 'the', 'whole', 'image'] 
+references: ['darken this picture', 'darken the entire image', 'decrease the image brightness'] 
+
+img_id: Zhopped.com_khPtl_khPtl.jpg_Zhopped.com_khPtl_mtbXG.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['increase saturation of the entire image', 'increase the brightness of the entire image and make words "www.maxim.com" a lot bigger', 'increase the image brightness, zoom in the text "www.maxim.com'] 
+
+img_id: Zhopped.com_9YkCG_9YkCG.jpg_Zhopped.com_9YkCG_7hKQn.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'background', 'of', 'a', 'picture', 'of', 'the', '<UNK>'] 
+references: ['lighten image', 'increase the brightness of the entire image', 'increase the image brightness'] 
+
+img_id: Zhopped.com_jz20V_jz20V.jpg_Zhopped.com_jz20V_7Drjb.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'black', 'background'] 
+references: ['add the man standing to the left', 'increase the contrast and add a man to the image', 'add a man in front of the house, decrease the color brightness'] 
+
+img_id: Zhopped.com_61n69_61n69.jpg_Zhopped.com_61n69_9RQ8J.jpg 
+candidates: ['remove', 'the', 'people', 'from', 'the', 'background'] 
+references: ['add color to sky', 'increase the brightness and add the sunset on the sky', 'add the orange lighting to the sky on the right corner of the image, increase the image contrast'] 
+
+img_id: Zhopped.com_fNfLw_fNfLw.jpg_Zhopped.com_fNfLw_4C5Vk.jpg 
+candidates: ['add', 'in', 'background', 'add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['change background colors to blue and white', 'change the background into the blue one with a white glow on the top', 'change the image background'] 
+
+img_id: Zhopped.com_kr1zq_kr1zq.jpg_Zhopped.com_kr1zq_7MDpg.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'add', 'a', 'new', 'background'] 
+references: ['increase sharpness  change the color profile to sepia tone', 'add a filter to the image', 'increase the image contrast, make the text bigger and white, color the background orange'] 
+
+img_id: Zhopped.com_lGMrj_lGMrj.jpg_Zhopped.com_lGMrj_sv9lR.jpg 
+candidates: ['change', 'background', 'to', 'black'] 
+references: ['increase image contrast', 'increase the contrast of the entire image', 'decrease the image brightness'] 
+
+img_id: Zhopped.com_Zx1MC_Zx1MC.jpg_Zhopped.com_Zx1MC_6SSMg.jpg 
+candidates: ['lighten', 'the', 'picture'] 
+references: ['brighten figure contrast', 'significantly increase the brightness of the entire image', 'increase the image brightness'] 
+
+img_id: Zhopped.com_m9SlJ_m9SlJ.jpg_Zhopped.com_m9SlJ_9vvZy.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['add the terminator text', 'resize the image and add the words "the terminator', 'add the blue text "the terminator" to the centre'] 
+
+img_id: Zhopped.com_4YpSt_4YpSt.jpg_Zhopped.com_4YpSt_5HclW.jpg 
+candidates: ['lighten', 'the', 'picture'] 
+references: ['replace white sky with red sunset increase exposure', 'add red sunset background', 'change the sky, increase the image contrast'] 
+
+img_id: Zhopped.com_xdXxv_xdXxv.jpg_Zhopped.com_xdXxv_sQpHD.jpg 
+candidates: ['make', 'the', 'background', 'of', 'the', 'image', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['move the mom closer to the dad', 'move the woman and the child in her lap a little closer to the rest of the family and change the colors', 'position the woman with kid closer to the man'] 
+
+img_id: Zhopped.com_8xVRV_8xVRV.jpg_Zhopped.com_8xVRV_lGkNT.jpg 
+candidates: ['brighten', 'the', 'image'] 
+references: ['remove the hair', "remove the girl's ponytail", "remove the girl's ponytail"] 
+
+img_id: Zhopped.com_krjkv_krjkv.jpg_Zhopped.com_krjkv_c7zwS.jpg 
+candidates: ['make', 'the', 'background', 'black', 'and', 'white'] 
+references: ['brighten the image', 'significantly increase the image brightness', 'make the entire image colors brighter'] 
+
+img_id: Zhopped.com_l0pMt_l0pMt.jpg_Zhopped.com_l0pMt_flT7c.jpg 
+candidates: ['add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['replace this background', 'crop the boy and replace a background', 'change the background, crop the image'] 
+
+img_id: Zhopped.com_vSrc9_vSrc9.jpg_Zhopped.com_vSrc9_d5TfQ.jpg 
+candidates: ['make', 'the', 'background', 'white'] 
+references: ['change background to zombie', 'add a zombie head and wooden background behind the two boys and girl', 'change the background, add a zombie face behind the girl, increase the image contrast'] 
+
+img_id: Zhopped.com_9fyNc_9fyNc.jpg_Zhopped.com_9fyNc_kZrHK.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image', 'add', 'a', 'new', 'background'] 
+references: ['change the background to white', 'remove the background', 'add a white background to the whole image'] 
+
+img_id: Zhopped.com_q8gGZ_q8gGZ.jpg_Zhopped.com_q8gGZ_7TFY2.jpg 
+candidates: ['make', 'her', 'hair', 'and', 'black', 'and', 'white'] 
+references: ['color the girls hair pink', "change the girl's hair color from black to pink", 'color the hair purple'] 
+
+img_id: Zhopped.com_4gK90_4gK90.jpg_Zhopped.com_4gK90_gqhF6.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'add', 'a', 'black', 'background'] 
+references: ['crop this picture lighten the whole image', 'zoom in entire photo and increase the brightness', 'make the entire image colors brighter, crop the image'] 
+
+img_id: Zhopped.com_kf7br_kf7br.jpg_Zhopped.com_kf7br_qR3vD.jpg 
+candidates: ['crop', 'the', 'image', 'add', 'a', 'background', 'of', 'the', 'picture'] 
+references: ['add the butterfly wings', 'crop the image and add butterfly wings behind the little girl', 'crop the image, add girl wings'] 
+
+img_id: Zhopped.com_7BGfJ_7BGfJ.jpg_Zhopped.com_7BGfJ_gSbmb.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image'] 
+references: ['zoom in and brighten the image', 'zoom in entire photo and increase the brightness', 'make the entire image colors brigter, crop the image'] 
+
+img_id: Zhopped.com_wBdHB_wBdHB.jpg_Zhopped.com_wBdHB_mlS9f.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'image'] 
+references: ['take the picture with front angle', 'crop and distort the image', 'distort the image'] 
+
+img_id: Zhopped.com_jXgH5_jXgH5.jpg_Zhopped.com_jXgH5_64VHw.jpg 
+candidates: ['remove', 'the', 'people', 'in', 'the', 'background'] 
+references: ['brighten the picture', 'significantly increase the brightness of the image', 'add the effect'] 
+
+img_id: Zhopped.com_cfl0w_cfl0w.jpg_Zhopped.com_cfl0w_9l92L.jpg 
+candidates: ['put', 'a', 'new', 'background', 'around', 'the', 'man'] 
+references: ['change background to sky with hot air balloons crop this out', 'crop the boy and put him into a different background', 'change the background around the boy'] 
+
+img_id: Zhopped.com_b6Nl7_b6Nl7.jpg_Zhopped.com_b6Nl7_wB7Nr.jpg 
+candidates: ['rotate', 'the', 'image', 'clockwise', 'remove', 'the', 'background'] 
+references: ['brighten the entire image', 'significantly increase the brightness of the image', 'make the colors whiter'] 
+
+img_id: Zhopped.com_lN5zL_lN5zL.jpg_Zhopped.com_lN5zL_3NwQ2.jpg 
+candidates: ['make', 'background', 'white'] 
+references: ['increase the contrast of the picture', 'change the colors of the image', 'make the colors greener'] 
+
+img_id: Zhopped.com_dLYtZ_dLYtZ.jpg_Zhopped.com_dLYtZ_bP2Cb.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'this', 'image'] 
+references: ['remove the yellow filter from the picture', 'remove the yellowness from the image', 'remove all the effects'] 
+
+img_id: Zhopped.com_62D4R_62D4R.jpg_Zhopped.com_62D4R_dMPhd.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['change the background behind the kid to a field with a house and clouds', 'crop the image and replace the entire background', 'change the background'] 
+
+img_id: Zhopped.com_bpQGB_bpQGB.jpg_Zhopped.com_bpQGB_tV3yd.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image'] 
+references: ['change the colors of this net', 'replace the colors of the easy chair', 'add multiple colors to the swing'] 
+
+img_id: Zhopped.com_cKFJd_cKFJd.jpg_Zhopped.com_cKFJd_df1Bk.jpg 
+candidates: ['lighten', 'the', 'whole', 'image'] 
+references: ['add skyline in glasses reflection', 'add city reflection on the glasses', 'add the reflection to sunglasses'] 
+
+img_id: Zhopped.com_9gbM9_9gbM9.jpg_Zhopped.com_9gbM9_bWNyr.jpg 
+candidates: ['remove', 'the', 'glare', 'from', 'the', 'photo'] 
+references: ['make image black and white', 'make the entire photo black and white', 'add the black and white effect'] 
+
+img_id: Zhopped.com_vNmxP_vNmxP.jpg_Zhopped.com_vNmxP_cvsJn.jpg 
+candidates: ['add', 'a', 'filter', 'to', 'the', 'image'] 
+references: ['remove the 1 month sticker add just the abby to a subway sign poster', 'put a whole image into the city billboard and remove the "1-month" logo', 'remove the "1 month" sign in the left side of the picture, add the whole picture to a billboard'] 
+
+img_id: Zhopped.com_khPtl_khPtl.jpg_Zhopped.com_khPtl_mtbXG.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['increase brightness of the entire image', 'increase the brightness of the entire image and make words "www.maxim.com" a lot bigger', 'make the entire image colors brighter, zoom in the sign "www.maxim.com'] 
+
+img_id: Zhopped.com_lJr5d_lJr5d.jpg_Zhopped.com_lJr5d_j3RgX.jpg 
+candidates: ['crop', 'the', 'image', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['increase contrast', 'increase the contrast of the entire image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_ZD66L_ZD66L.jpg_Zhopped.com_ZD66L_x2nwB.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'person'] 
+references: ['crop the 3 females in this photo', 'crop image', 'crop the image'] 
+
+img_id: Zhopped.com_7pmcv_7pmcv.jpg_Zhopped.com_7pmcv_jQ8dZ.jpg 
+candidates: ['make', 'the', 'background', 'black', 'and', 'white'] 
+references: ['brighten skintone of this girl', 'make the girls skin lighter', 'add brighter skin tone'] 
+
+img_id: Zhopped.com_5GW6r_5GW6r.jpg_Zhopped.com_5GW6r_jx8wS.jpg 
+candidates: ['make', 'her', 'hair', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['darken the photo', 'decrease the brightness in the entire image', 'make the colors cooler'] 
+
+img_id: Zhopped.com_vHgdt_vHgdt.jpg_Zhopped.com_vHgdt_6mwTZ.jpg 
+candidates: ['make', 'the', 'background', 'of', 'the', 'image', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['add a lens flair gradient to black outside of this border reduce all colors but blue', 'add the black vignette around the image, make the colors bluer and add yellow light in the front of the camera objective', 'add the light on camera, focus the central area'] 
+
+img_id: Zhopped.com_j9Tkh_j9Tkh.jpg_Zhopped.com_j9Tkh_6vw98.jpg 
+candidates: ['make', 'the', 'background', 'of', 'the', 'picture', 'a', 'little', 'bit'] 
+references: ['make this whole image darker and more golden', 'increase the contrast of the entire image', 'decrease the image brightness'] 
+
+img_id: Zhopped.com_7BGfJ_7BGfJ.jpg_Zhopped.com_7BGfJ_v1LSj.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['brighten up this area', 'increase the brightness of the entire image', 'increase the image brightness'] 
+
+img_id: Zhopped.com_51pKg_51pKg.jpg_Zhopped.com_51pKg_9BNQp.jpg 
+candidates: ['brighten', 'the', 'image'] 
+references: ['make this image look less washed out', 'increase the contrast of the entire image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_3jDKK_3jDKK.jpg_Zhopped.com_3jDKK_wsGzs.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['lighten image make blue and extend aura', 'add blue color to the logo and add a blue glow around the logo', 'change green color to blue, add blue light around the central sign'] 
+
+img_id: Zhopped.com_j6wzF_j6wzF.jpg_Zhopped.com_j6wzF_sNXTQ.jpg 
+candidates: ['brighten', 'the', 'background'] 
+references: ['flip image and change background', 'flip the man, crop the image and replace the background with a new one', 'rotate the image, change the background '] 
+
+img_id: Zhopped.com_kktBS_kktBS.jpg_Zhopped.com_kktBS_l5qFr.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'picture'] 
+references: ['make picture black and white', 'make the entire image black & white', 'add black and white effect'] 
+
+img_id: Zhopped.com_3jDKK_3jDKK.jpg_Zhopped.com_3jDKK_rnMWy.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'black', 'and', 'white'] 
+references: ['add blue background shadow', 'make the logo outlines blue and add a blue glow around logo', 'color the edges of the sign green, add a blue light around the sign'] 
+
+img_id: Zhopped.com_dYzgs_dYzgs.jpg_Zhopped.com_dYzgs_wXrg1.jpg 
+candidates: ['the', 'brightness', 'needs', 'to', 'be', 'turned', 'up', ''] 
+references: ['tone down the color of this entire photograph', 'significantly decrease colors of the image', 'make the colors cooler'] 
+
+img_id: Zhopped.com_kktBS_kktBS.jpg_Zhopped.com_kktBS_l5qFr.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'picture'] 
+references: ['change this whole picture to black and white', 'make the entire image black & white', 'add black and white effect'] 
+
+img_id: Zhopped.com_49fsc_49fsc.jpg_Zhopped.com_49fsc_g4cNR.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['remove background replace with white', 'remove the background', 'add a white background to the whole image'] 
+
+img_id: Zhopped.com_nM9wg_nM9wg.jpg_Zhopped.com_nM9wg_qr6GX.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'make', 'it', 'white'] 
+references: ['remove white wires', 'remove the white headphone wires', 'remove the white cable '] 
+
+img_id: Zhopped.com_6jnXR_6jnXR.jpg_Zhopped.com_6jnXR_w3TXJ.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'photo'] 
+references: ['move the couple to green pastures', 'replace the background with a meadow and cloudy sky', 'change the background above the floor'] 
+
+img_id: Zhopped.com_qcRVJ_qcRVJ.jpg_Zhopped.com_qcRVJ_7dj90.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'picture'] 
+references: ['add color to her face and shadows to her legs', "light the girl's face and darken the rest of her skin", "color girl's face and body to the same skin tone"] 
+
+img_id: Zhopped.com_fR6qm_fR6qm.jpg_Zhopped.com_fR6qm_wZ4nP.jpg 
+candidates: ['remove', 'the', 'background'] 
+references: ['rotate 90 degrees counter clockwise remove this stamp add a pink frame', 'rotate the image, remove the red stamp, resize the image and fit it into a pink frame', 'rotate the image to the right, remove the text on the image, add the image to frame'] 
+
+img_id: Zhopped.com_9S7TN_9S7TN.jpg_Zhopped.com_9S7TN_4cVsk.jpg 
+candidates: ['remove', 'the', 'background', 'and', 'make', 'it', 'white'] 
+references: ['remove the mustache', "remove the mustache from the girl's face", 'remove the mustache'] 
+
+img_id: Zhopped.com_nK0j9_nK0j9.jpg_Zhopped.com_nK0j9_pcZD7.jpg 
+candidates: ['the', 'background', 'of', 'the', 'image', 'and', 'make', 'it', 'look', 'like', 'a', 'white'] 
+references: ['na turn the contrast down just a touch so the black and the white or the light and the dark colors stand out more', 'increase the contrast of the entire image', 'increase the image contrast'] 
+
+img_id: Zhopped.com_8VSjp_8VSjp.jpg_Zhopped.com_8VSjp_xgc1N.jpg 
+candidates: ['make', 'the', 'whole', 'image', 'brighter'] 
+references: ['crop this image here', 'zoom in the image', 'crop the image'] 
+
+img_id: Zhopped.com_qcRVJ_qcRVJ.jpg_Zhopped.com_qcRVJ_7dj90.jpg 
+candidates: ['zoom', 'in', 'on', 'this', 'picture'] 
+references: ['make her head match the rest of her bodys color', "light the girl's face and darken the rest of her skin", "color girl's face and body to the same skin tone"] 
+
+img_id: Zhopped.com_vSrc9_vSrc9.jpg_Zhopped.com_vSrc9_d5TfQ.jpg 
+candidates: ['make', 'the', 'background', 'white'] 
+references: ['add a zombie in the background', 'add a zombie head and wooden background behind the two boys and girl', 'change the background, add a zombie face behind the girl, increase the image contrast'] 
+
+img_id: Zhopped.com_57lm4_57lm4.jpg_Zhopped.com_57lm4_2VPkB.jpg 
+candidates: ['change', 'the', 'background', 'to', 'a', 'blue', 'sky', 'with', 'clouds'] 
+references: ['erase the background around her completely ', 'remove background and crop the image', "add a white background around the girl, crop the image, add a light in girl's eyes"] 
+
+img_id: Zhopped.com_wsfWd_wsfWd.jpg_Zhopped.com_wsfWd_fTHNj.jpg 
+candidates: ['remove', 'the', 'background', 'from', 'the', 'image', 'add', 'a', 'new', 'background'] 
+references: ['make this photo black and white', "make the entire image black and white and add more muscles to the man's body", 'add black and white effect, add bigger abdominal and arm muscles'] 
+

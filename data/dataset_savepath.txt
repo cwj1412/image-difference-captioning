@@ -1,0 +1,10 @@
+# 实验用到的edit、spot、bird三个数据集存放路径
+原始数据集: 
+/data2/cwj/caption/bird2words/data/
+/data2/wwy/caption/dataset/spot-the-diff/
+/data2/wwy/caption/dataset/ImageEdit/
+
+抽好的图像resnet特征:
+/data2/wwy/caption/data/bird2words/full_img.pkl
+/data2/wwy/caption/data/ImageEdit/full_img.pkl
+/data2/wwy/caption/data/spot/full_img.pkl
