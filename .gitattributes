@@ -1,1 +1,1 @@
-Trans_GRU_b/metric filter=lfs diff=lfs merge=lfs -text
+Trans_GRU_b/metric/spice/lib/stanford-corenlp-3.6.0-models.jar filter=lfs diff=lfs merge=lfs -text
