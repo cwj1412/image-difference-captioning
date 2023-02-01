@@ -1,2 +1,2 @@
 # image-difference-captioning
-毕设工作的相关代码
+code for graduation project
